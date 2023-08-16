@@ -1,0 +1,4672 @@
+# Copyright (C) 2022 Benevolence WordPress Theme
+# This file is distributed under the same license as the Benevolence WordPress Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Benevolence WordPress Theme\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: WPlook Themes wplook.com\n"
+"Last-Translator: Victor Tihai victor@wplook.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! The page you were looking for could not be found."
+msgstr ""
+
+#: 404.php:24, inc/library.php:394
+msgid "Home"
+msgstr ""
+
+#: archive.php:53, template-news-grid.php:60, template-news-list.php:71
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: archive.php:39, archive.php:39, template-causes-list.php:54, template-causes-list.php:54, template-docs-grid.php:58, template-docs-grid.php:58, template-docs-list.php:60, template-docs-list.php:60, template-ministries-list.php:61, template-ministries-list.php:61, template-news-grid.php:52, template-news-grid.php:52, template-news-list.php:57, template-news-list.php:57, template-projects-grid.php:68, template-projects-grid.php:68, template-projects-list.php:61, template-projects-list.php:61, template-sermons-list.php:64, template-sermons-list.php:64, template-parts/archive-post_causes.php:40, template-parts/archive-post_causes.php:40, template-parts/archive-post_documents.php:55, template-parts/archive-post_documents.php:55, template-parts/archive-post_documents_list.php:41, template-parts/archive-post_documents_list.php:41, template-parts/archive-post_ministries.php:48, template-parts/archive-post_ministries.php:48, template-parts/archive-post_projects.php:43, template-parts/archive-post_projects.php:43, template-parts/archive-post_projects_grid.php:47, template-parts/archive-post_projects_grid.php:47, template-parts/archive-post_sermons.php:45, template-parts/archive-post_sermons.php:45, template-parts/content-search.php:32, template-parts/content-search.php:32, template-parts/content.php:96, template-parts/content.php:96, template-parts/inc-events-loop.php:43, template-parts/inc-events-loop.php:43, inc/widgets/widget-docs.php:228, inc/widgets/widget-docs.php:228, inc/widgets/widget-ministries.php:204, inc/widgets/widget-ministries.php:204, inc/widgets/widget-posts.php:215, inc/widgets/widget-posts.php:215, inc/widgets/widget-projects.php:222, inc/widgets/widget-projects.php:222, inc/widgets/widget-text-enchanted.php:66, inc/widgets/widget-text-enchanted.php:72, inc/widgets/widget-text-enchanted.php:78, inc/widgets/widget-text-enchanted.php:84
+msgid "Read more"
+msgstr ""
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:23
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:23
+msgid "Comments RSS"
+msgstr ""
+
+#: comments.php:23
+msgid "RSS"
+msgstr ""
+
+#: comments.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:32
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:32
+msgid "WPlook"
+msgstr ""
+
+#: functions.php:102
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:103
+msgid "Language Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:70
+msgid "Search for..."
+msgstr ""
+
+#: header.php:110
+msgid "View your shopping cart"
+msgstr ""
+
+#: header.php:110
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: sidebar-page.php:17, single-post_causes.php:316, single-post_documents.php:59, single-post_events.php:182, single-post_ministries.php:150, single-post_projects.php:122, single-post_sermons.php:187
+msgid "Share"
+msgstr ""
+
+#: sidebar-page.php:28
+msgid "Menu"
+msgstr ""
+
+#: single-post_causes.php:46
+msgid "Photos"
+msgstr ""
+
+#: single-post_causes.php:46, single-post_events.php:57, single-post_ministries.php:44, single-post_projects.php:41, single-post_sermons.php:38, single-post_sermons.php:38
+msgid "Photo"
+msgstr ""
+
+#: single-post_causes.php:51
+msgid "Videos"
+msgstr ""
+
+#: single-post_causes.php:51, single-post_events.php:62, single-post_ministries.php:49, single-post_projects.php:46, single-post_sermons.php:43, single-post_sermons.php:43, inc/metabox.php:1131, inc/metabox.php:1322
+msgid "Video"
+msgstr ""
+
+#: single-post_causes.php:110, template-pp-make-donation.php:124
+msgid "Please select a payment method"
+msgstr ""
+
+#: single-post_causes.php:114, template-pp-make-donation.php:128, inc/metabox.php:483, inc/theme-options.php:2046
+msgid "PayPal"
+msgstr ""
+
+#: single-post_causes.php:119, template-pp-make-donation.php:133
+msgid "Credit Card"
+msgstr ""
+
+#: single-post_causes.php:129
+msgctxt "Custom Amount in [currency code like USD]"
+msgid "Custom Amount in %s"
+msgstr ""
+
+#: single-post_causes.php:129, single-post_causes.php:195, template-pp-make-donation.php:145, template-pp-make-donation.php:216
+msgid "Custom Amount"
+msgstr ""
+
+#: single-post_causes.php:138, single-post_causes.php:201
+msgid "Hide my name from donation list"
+msgstr ""
+
+#: single-post_causes.php:144, single-post_causes.php:208, template-pp-make-donation.php:237
+msgid "Donate for this cause"
+msgstr ""
+
+#: single-post_causes.php:251
+msgid "In order to be able to donate with a Credit Card you need to have an account."
+msgstr ""
+
+#: single-post_causes.php:259
+msgid "%2$s or create your free account now %3$s"
+msgstr ""
+
+#: single-post_causes.php:162
+msgid "Donation Frequency"
+msgstr ""
+
+#: single-post_causes.php:167
+msgid "One Time"
+msgstr ""
+
+#: single-post_causes.php:171
+msgid "Weekly"
+msgstr ""
+
+#: single-post_causes.php:175
+msgid "Monthly"
+msgstr ""
+
+#: single-post_causes.php:178, single-post_causes.php:179, template-pp-make-donation.php:196, template-pp-make-donation.php:197
+msgid "Card Number"
+msgstr ""
+
+#: single-post_causes.php:182, template-pp-make-donation.php:201
+msgid "Expiration Month  (MM)"
+msgstr ""
+
+#: single-post_causes.php:186, template-pp-make-donation.php:206
+msgid "Expiration Year  (YYYY)"
+msgstr ""
+
+#: single-post_causes.php:190, template-pp-make-donation.php:211
+msgid "Card Verification Code"
+msgstr ""
+
+#: single-post_causes.php:191, template-pp-make-donation.php:212
+msgid "CVC"
+msgstr ""
+
+#: single-post_causes.php:195, template-pp-make-donation.php:145, template-pp-make-donation.php:217
+msgid "Custom Amount in"
+msgstr ""
+
+#: single-post_causes.php:278, inc/metabox.php:195
+msgid "Cause Status"
+msgstr ""
+
+#: single-post_causes.php:278, inc/metabox.php:201, inc/metabox.php:258, template-parts/archive-post_projects.php:55
+msgid "Complete"
+msgstr ""
+
+#: single-post_causes.php:278, single-post_projects.php:107, template-projects-list.php:73, inc/metabox.php:200, inc/metabox.php:257, template-parts/archive-post_projects.php:55, inc/plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: single-post_causes.php:286
+msgid "Total raised"
+msgstr ""
+
+#: single-post_causes.php:304
+msgid "Project Goal"
+msgstr ""
+
+#: single-post_causes.php:309, single-post_projects.php:117, inc/metabox.php:215, inc/metabox.php:272
+msgid "End date"
+msgstr ""
+
+#: single-post_causes.php:313
+msgid "Funders"
+msgstr ""
+
+#: single-post_documents.php:54
+msgid "Size"
+msgstr ""
+
+#: single-post_documents.php:71
+msgid "Download"
+msgstr ""
+
+#: single-post_events.php:121
+msgid "Date and Time"
+msgstr ""
+
+#: single-post_events.php:122, single-post_events.php:122, single-post_ministries.php:112
+msgid "at"
+msgstr ""
+
+#: single-post_events.php:128, inc/metabox.php:833
+msgid "Recurring event"
+msgstr ""
+
+#: single-post_events.php:131
+msgctxt "This event repeats every [number of days] days, starting from [date] until [date]."
+msgid "This event repeats every %1$d days, starting from %2$s until %3$s."
+msgstr ""
+
+#: single-post_events.php:167
+msgid "Get Directions"
+msgstr ""
+
+#: single-post_events.php:176
+msgid "Join the event"
+msgstr ""
+
+#: single-post_gallery.php:55, template-parts/content-page.php:19, template-parts/content-search.php:28, template-parts/content.php:92, template-parts/content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: single-post_gallery.php:67, template-parts/content.php:58
+msgid "Share via:"
+msgstr ""
+
+#: single-post_ministries.php:108
+msgid "When"
+msgstr ""
+
+#: single-post_projects.php:107, inc/metabox.php:252
+msgid "Project Status"
+msgstr ""
+
+#: single-post_projects.php:107, template-projects-list.php:73, inc/metabox.php:495
+msgid "Completed"
+msgstr ""
+
+#: single-post_projects.php:112, inc/metabox.php:266
+msgid "Start date"
+msgstr ""
+
+#: single-post_sermons.php:48, single-post_sermons.php:48, inc/metabox.php:1157
+msgid "Audio"
+msgstr ""
+
+#: single-post_sermons.php:53, single-post_sermons.php:53
+msgid "Files"
+msgstr ""
+
+#: single-post_sermons.php:165, template-user-donations.php:41, inc/library.php:948, inc/library.php:1079, inc/library.php:1347, inc/library.php:1397
+msgid "Date"
+msgstr ""
+
+#: single-post_sermons.php:177, single-post_sermons.php:173
+msgid "Speaker"
+msgstr ""
+
+#: single-post_sermons.php:183, inc/custom-post-type/gallery.php:73, inc/custom-post-type/ministries.php:70
+msgid "Category"
+msgstr ""
+
+#: single-post_staff.php:77, inc/library.php:1077, inc/metabox.php:1018
+msgid "Phone"
+msgstr ""
+
+#: single-post_staff.php:82, template-pp-make-donation.php:191, template-pp-make-donation.php:192, inc/comment.php:84, inc/library.php:1078, inc/metabox.php:466, inc/metabox.php:1024, inc/user-register.php:84
+msgid "Email"
+msgstr ""
+
+#: single-post_staff.php:87, inc/metabox.php:1053, inc/metabox.php:1253, inc/theme-options.php:391
+msgid "URL"
+msgstr ""
+
+#: single-post_staff.php:87
+msgid "Click to visit"
+msgstr ""
+
+#: single-post_staff.php:91, inc/widgets/widget-instagram.php:113
+msgid "Follow"
+msgstr ""
+
+#: template-causes-grid.php:3
+msgid "Causes Grid"
+msgstr ""
+
+#: template-causes-grid.php:100, template-causes-list.php:66, template-parts/archive-post_causes.php:51, template-parts/archive-post_causes_grid.php:93, inc/widgets/widget-causes.php:273
+msgid "Sorry, no causes matched your criteria."
+msgstr ""
+
+#: template-causes-grid.php:70, template-parts/archive-post_causes_grid.php:64, inc/widgets/widget-causes.php:240
+msgid "Raised"
+msgstr ""
+
+#: template-causes-grid.php:77, template-parts/archive-post_causes_grid.php:71, inc/widgets/widget-causes.php:247
+msgid "Donors"
+msgstr ""
+
+#: template-causes-grid.php:84, template-parts/archive-post_causes_grid.php:78, inc/widgets/widget-causes.php:254, inc/widgets/widget-latest-donations.php:267
+msgid "Goal"
+msgstr ""
+
+#: template-causes-grid.php:93, template-parts/archive-post_causes_grid.php:87, inc/widgets/widget-causes.php:264
+msgid "Make a Donation"
+msgstr ""
+
+#: template-causes-grid.php:93, template-parts/archive-post_causes_grid.php:87, inc/widgets/widget-causes.php:264
+msgid "Learn More"
+msgstr ""
+
+#: template-causes-list.php:3
+msgid "Causes List"
+msgstr ""
+
+#: template-causes-list.php:56, template-parts/archive-post_causes.php:42
+msgid "Help us to collect:"
+msgstr ""
+
+#: template-cc-thank-you.php:3
+msgid "Stripe Thank You!"
+msgstr ""
+
+#: template-cc-thank-you.php:113, template-pp-make-donation.php:111
+msgid "Sorry, the transaction not occurred"
+msgstr ""
+
+#: template-cc-thank-you.php:109, template-pp-make-donation.php:107
+msgid "Thank you! Your donation was received."
+msgstr ""
+
+#: template-contact.php:3
+msgid "Contact us"
+msgstr ""
+
+#: template-docs-grid.php:3
+msgid "Documents Grid"
+msgstr ""
+
+#: template-docs-grid.php:68, template-docs-list.php:68, template-parts/archive-post_documents.php:64, template-parts/archive-post_documents_list.php:49
+msgid "Sorry, no documents matched your criteria."
+msgstr ""
+
+#: template-docs-list.php:3
+msgid "Documents List"
+msgstr ""
+
+#: template-events-calendar.php:3
+msgid "Events: Calendar"
+msgstr ""
+
+#: template-events-calendar.php:52, template-google-calendar.php:66, inc/widgets/widget-google-calendar.php:165
+msgid "Loading events"
+msgstr ""
+
+#: template-events-calendar.php:56, template-google-calendar.php:70, inc/widgets/widget-google-calendar.php:169
+msgid "An error has occured:"
+msgstr ""
+
+#: template-events-past.php:3
+msgid "Events: Past"
+msgstr ""
+
+#: template-events-upcoming.php:3
+msgid "Events: List"
+msgstr ""
+
+#: template-gallery-grid.php:3
+msgid "Gallery Grid"
+msgstr ""
+
+#: template-gallery-grid.php:43, template-parts/archive-post_gallery.php:41
+msgid "Sorry, no galleries matched your criteria."
+msgstr ""
+
+#: template-google-calendar.php:3
+msgid "Google Calendar"
+msgstr ""
+
+#: template-homepage.php:3
+msgid "Home page"
+msgstr ""
+
+#: template-left-sidebar.php:3
+msgid "Left Sidebar Template"
+msgstr ""
+
+#: template-ministries-list.php:3
+msgid "Ministries List"
+msgstr ""
+
+#: template-ministries-list.php:68, template-parts/archive-post_ministries.php:55
+msgid "Sorry, no ministries matched your criteria."
+msgstr ""
+
+#: template-news-grid.php:3
+msgid "Blog/News Grid"
+msgstr ""
+
+#: template-news-list.php:3
+msgid "Blog/News List"
+msgstr ""
+
+#: template-pp-make-donation.php:3
+msgid "Make a donation"
+msgstr ""
+
+#: template-pp-make-donation.php:149, template-pp-make-donation.php:149, template-pp-make-donation.php:223, template-stripe-webhooks.php:86
+msgid "General Donation"
+msgstr ""
+
+#: template-pp-make-donation.php:162
+msgid "Donate Now"
+msgstr ""
+
+#: template-pp-make-donation.php:179, template-pp-make-donation.php:180, inc/library.php:943, inc/user-register.php:99, inc/user-register.php:100
+msgid "First Name"
+msgstr ""
+
+#: template-pp-make-donation.php:185, template-pp-make-donation.php:186, inc/library.php:944, inc/user-register.php:104, inc/user-register.php:105
+msgid "Last Name"
+msgstr ""
+
+#: template-pp-make-donation.php:221
+msgid "I give a donation for:"
+msgstr ""
+
+#: template-pp-thank-you.php:3
+msgid "PayPal Thank You!"
+msgstr ""
+
+#: template-projects-grid.php:3
+msgid "Projects Grid"
+msgstr ""
+
+#: template-projects-grid.php:76, template-projects-list.php:82, template-parts/archive-post_projects.php:64, template-parts/archive-post_projects_grid.php:55
+msgid "Sorry, no projects matched your criteria."
+msgstr ""
+
+#: template-projects-list.php:3
+msgid "Projects List"
+msgstr ""
+
+#: template-sermons-grid.php:3
+msgid "Sermons Grid"
+msgstr ""
+
+#: template-sermons-grid.php:99, template-sermons-list.php:94, template-parts/archive-post_sermons.php:75, template-parts/archive-post_sermons_grid.php:95
+msgid "Sorry, no sermons matched your criteria."
+msgstr ""
+
+#: template-sermons-list.php:3
+msgid "Sermons List"
+msgstr ""
+
+#: template-shop.php:3
+msgid "Shop Template"
+msgstr ""
+
+#: template-staff-grid.php:3
+msgid "Staff/Team Grid"
+msgstr ""
+
+#: template-staff-grid.php:74, template-parts/archive-post_staff.php:50
+msgid "Sorry, no candidates matched your criteria."
+msgstr ""
+
+#: template-stripe-webhooks.php:3
+msgid "Webhooks for Stripe Page"
+msgstr ""
+
+#: template-user-donations.php:3
+msgid "User Donations Page"
+msgstr ""
+
+#: template-user-donations.php:80
+msgid "No transaction!"
+msgstr ""
+
+#: template-user-donations.php:39, inc/library.php:941
+msgid "Transaction ID"
+msgstr ""
+
+#: template-user-donations.php:40, template-user-subscriptions.php:63
+msgid "Cause Name"
+msgstr ""
+
+#: template-user-donations.php:42, template-user-subscriptions.php:64
+msgid "Amount"
+msgstr ""
+
+#: template-user-donations.php:43, inc/plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: template-user-donations.php:44, inc/plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: template-user-donations.php:58
+msgid "Check or Cash"
+msgstr ""
+
+#: template-user-donations.php:56, inc/metabox.php:485
+msgid "Bank Transfer"
+msgstr ""
+
+#: template-user-donations.php:65
+msgctxt "[date] at [time]"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: template-user-login.php:3
+msgid "User Login Page"
+msgstr ""
+
+#: template-user-register.php:3
+msgid "User Register Page"
+msgstr ""
+
+#: template-user-subscriptions.php:3
+msgid "User Subscriptions Page"
+msgstr ""
+
+#: template-user-subscriptions.php:91
+msgid "You dont have active subscriptions"
+msgstr ""
+
+#: template-user-subscriptions.php:62
+msgid "Subscriptions ID"
+msgstr ""
+
+#: template-user-subscriptions.php:65
+msgid "Interval"
+msgstr ""
+
+#: template-user-subscriptions.php:83
+msgctxt "Next Payment: [date] at [time]"
+msgid "Next Payment:"
+msgstr ""
+
+#: template-user-subscriptions.php:84
+msgid "Cancel a subscription"
+msgstr ""
+
+#: inc/comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comment.php:47, template-parts/inc-events-loop.php:45
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/comment.php:56, inc/custom-post-type/causes.php:28, inc/custom-post-type/documents.php:28, inc/custom-post-type/events.php:29, inc/custom-post-type/gallery.php:30, inc/custom-post-type/ministries.php:28, inc/custom-post-type/pledges.php:26, inc/custom-post-type/projects.php:28, inc/custom-post-type/sermons.php:29, inc/custom-post-type/slider.php:25, inc/custom-post-type/sponsors.php:26, inc/custom-post-type/staff.php:29
+msgid "Edit"
+msgstr ""
+
+#: inc/comment.php:82, inc/library.php:1075
+msgid "Name"
+msgstr ""
+
+#: inc/comment.php:86
+msgid "Website"
+msgstr ""
+
+#: inc/comment.php:89
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: inc/comment.php:91
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/comment.php:94
+msgid "Comment"
+msgstr ""
+
+#: inc/comment.php:95
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/comment.php:96
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: inc/comment.php:97
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/comment.php:100
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/comment.php:101
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/comment.php:102
+msgid "or Cancel reply"
+msgstr ""
+
+#: inc/comment.php:103
+msgid "Send Comment"
+msgstr ""
+
+#: inc/library.php:214
+msgid "Facebook"
+msgstr ""
+
+#: inc/library.php:215
+msgid "Twitter"
+msgstr ""
+
+#: inc/library.php:216
+msgid "Pinterest"
+msgstr ""
+
+#: inc/library.php:217
+msgid "Google+"
+msgstr ""
+
+#: inc/library.php:274
+msgid " at "
+msgstr ""
+
+#: inc/library.php:329, inc/library.php:2123
+msgid "Go to the first page"
+msgstr ""
+
+#: inc/library.php:329, inc/library.php:2123
+msgid "First page"
+msgstr ""
+
+#: inc/library.php:330, inc/library.php:340, inc/library.php:2124, inc/library.php:2134
+msgid "Go to the page %d"
+msgstr ""
+
+#: inc/library.php:330, inc/library.php:2124
+msgid "Previous page"
+msgstr ""
+
+#: inc/library.php:335, inc/library.php:2129
+msgid "Page %1$s of %2$d"
+msgstr ""
+
+#: inc/library.php:340, inc/library.php:2134
+msgid "Next page"
+msgstr ""
+
+#: inc/library.php:341, inc/library.php:2135
+msgid "Go to the last page"
+msgstr ""
+
+#: inc/library.php:341, inc/library.php:2135
+msgid "Last page"
+msgstr ""
+
+#: inc/library.php:395
+msgid "Archive for %s"
+msgstr ""
+
+#: inc/library.php:396
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/library.php:397
+msgid "Posts tagged %s"
+msgstr ""
+
+#: inc/library.php:398
+msgid "Posts by %s"
+msgstr ""
+
+#: inc/library.php:399
+msgid "Error 404"
+msgstr ""
+
+#: inc/library.php:453, inc/library.php:641
+msgid "Shop"
+msgstr ""
+
+#: inc/library.php:497
+msgid "Page"
+msgstr ""
+
+#: inc/library.php:572, inc/library.php:581
+msgctxt "Upcoming Events in [category name]"
+msgid "Upcoming Events in %s"
+msgstr ""
+
+#: inc/library.php:637
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/library.php:632
+msgid "Author's Posts"
+msgstr ""
+
+#: inc/library.php:627
+msgid "Yearly Archives:"
+msgstr ""
+
+#: inc/library.php:623
+msgid "Monthly Archives:"
+msgstr ""
+
+#: inc/library.php:618
+msgid "Daily Archives:"
+msgstr ""
+
+#: inc/library.php:613
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/library.php:608
+msgctxt "Upcoming events: [month] [year]"
+msgid "Upcoming events: %1$s %2$d"
+msgstr ""
+
+#: inc/library.php:605, inc/widgets/widget-events.php:126
+msgid "Upcoming events"
+msgstr ""
+
+#: inc/library.php:596
+msgctxt "Past events: [month] [year]"
+msgid "Past events: %1$s %2$d"
+msgstr ""
+
+#: inc/library.php:593, inc/widgets/widget-events.php:127
+msgid "Past events"
+msgstr ""
+
+#: inc/library.php:584
+msgctxt "Upcoming Events in [category name]: [month] [year]"
+msgid "Upcoming Events in %1$s: %2$s %3$d"
+msgstr ""
+
+#: inc/library.php:678
+msgid "Link color"
+msgstr ""
+
+#: inc/library.php:679
+msgid "Hover link color"
+msgstr ""
+
+#: inc/library.php:680
+msgid "Accent color"
+msgstr ""
+
+#: inc/library.php:681
+msgid "Accent color 2"
+msgstr ""
+
+#: inc/library.php:682
+msgid "Footer"
+msgstr ""
+
+#: inc/library.php:683
+msgid "Footer text color"
+msgstr ""
+
+#: inc/library.php:684
+msgid "Footer header color"
+msgstr ""
+
+#: inc/library.php:685
+msgid "Accent color for text"
+msgstr ""
+
+#: inc/library.php:687
+msgid "WooCommerce price colour"
+msgstr ""
+
+#: inc/library.php:871
+msgid "WPlook Panel"
+msgstr ""
+
+#: inc/library.php:873
+msgid "WPlook Options Panel"
+msgstr ""
+
+#: inc/library.php:881
+msgid "Theme Options"
+msgstr ""
+
+#: inc/library.php:883
+msgid "Theme options"
+msgstr ""
+
+#: inc/library.php:891, inc/library.php:893
+msgid "Support"
+msgstr ""
+
+#: inc/library.php:902
+msgid "Our Themes"
+msgstr ""
+
+#: inc/library.php:904
+msgid "Our themes"
+msgstr ""
+
+#: inc/library.php:912, inc/library.php:914
+msgid "Like us on Facebook"
+msgstr ""
+
+#: inc/library.php:922, inc/library.php:924
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: inc/library.php:942
+msgid "Cause"
+msgstr ""
+
+#: inc/library.php:945, inc/metabox.php:472
+msgid "Donation Amount"
+msgstr ""
+
+#: inc/library.php:946, inc/metabox.php:478
+msgid "Payment Source"
+msgstr ""
+
+#: inc/library.php:947, inc/metabox.php:491
+msgid "Payment Status"
+msgstr ""
+
+#: inc/library.php:974, inc/library.php:989, inc/library.php:1004, inc/library.php:1020, inc/library.php:1036, inc/library.php:1052, inc/library.php:1105, inc/library.php:1121, inc/library.php:1137, inc/library.php:1189, inc/library.php:1206, inc/library.php:1224, inc/library.php:1372, inc/library.php:1421
+msgid "Unknown"
+msgstr ""
+
+#: inc/library.php:992, inc/library.php:1007, inc/library.php:1023, inc/library.php:1039, inc/library.php:1055, inc/library.php:1108, inc/library.php:1124, inc/library.php:1140, inc/library.php:1193, inc/library.php:1210, inc/library.php:1227, inc/library.php:1375, inc/library.php:1424
+msgid "%s"
+msgstr ""
+
+#: inc/library.php:1076, inc/metabox.php:1012
+msgid "Position"
+msgstr ""
+
+#: inc/library.php:1162
+msgid "Event Name"
+msgstr ""
+
+#: inc/library.php:1163
+msgid "Start"
+msgstr ""
+
+#: inc/library.php:1164
+msgid "End"
+msgstr ""
+
+#: inc/library.php:1165
+msgid "Address"
+msgstr ""
+
+#: inc/library.php:1345, inc/library.php:1395, inc/metabox.php:1171, inc/metabox.php:1197
+msgid "Title"
+msgstr ""
+
+#: inc/library.php:1346, inc/metabox.php:207
+msgid "Goal Amount"
+msgstr ""
+
+#: inc/library.php:1396
+msgid "File Size"
+msgstr ""
+
+#: inc/library.php:1922, inc/widgets/widget-dashboard-charts.php:609, inc/widgets/widget-dashboard-charts.php:843
+msgid "This month"
+msgstr ""
+
+#: inc/library.php:1947
+msgid "Select a month"
+msgstr ""
+
+#: inc/library.php:2603
+msgid "No posts available."
+msgstr ""
+
+#: inc/metabox.php:21
+msgid "Page Options"
+msgstr ""
+
+#: inc/metabox.php:29, inc/metabox.php:71, inc/metabox.php:126, inc/metabox.php:169, inc/metabox.php:246, inc/metabox.php:354, inc/metabox.php:815, inc/metabox.php:937, inc/metabox.php:1006, inc/metabox.php:1095
+msgid "Header image"
+msgstr ""
+
+#: inc/metabox.php:31, inc/metabox.php:73, inc/metabox.php:128, inc/metabox.php:171, inc/metabox.php:248, inc/metabox.php:356
+msgid "The image will be displayed in the header of the page, the required dimensions:  (1680 x 275)"
+msgstr ""
+
+#: inc/metabox.php:35
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/metabox.php:37
+msgid "Display or hide the sidebar on this page"
+msgstr ""
+
+#: inc/metabox.php:39, inc/metabox.php:93, inc/metabox.php:136, inc/metabox.php:179, inc/metabox.php:189, inc/metabox.php:390, inc/metabox.php:401, inc/metabox.php:620, inc/metabox.php:686, inc/metabox.php:754, inc/metabox.php:837, inc/metabox.php:1214, inc/metabox.php:1332
+msgid "On"
+msgstr ""
+
+#: inc/metabox.php:40, inc/metabox.php:94, inc/metabox.php:137, inc/metabox.php:180, inc/metabox.php:190, inc/metabox.php:391, inc/metabox.php:402, inc/metabox.php:621, inc/metabox.php:687, inc/metabox.php:755, inc/metabox.php:838, inc/metabox.php:1215, inc/metabox.php:1333
+msgid "Off"
+msgstr ""
+
+#: inc/metabox.php:63
+msgid "Document Options"
+msgstr ""
+
+#: inc/metabox.php:77
+msgid "File"
+msgstr ""
+
+#: inc/metabox.php:79
+msgid "Upload the file. (The file must have the .pdf extension."
+msgstr ""
+
+#: inc/metabox.php:83
+msgid "File size"
+msgstr ""
+
+#: inc/metabox.php:85
+msgid "The file size. (For ex: 1.45MB)"
+msgstr ""
+
+#: inc/metabox.php:89, inc/metabox.php:132, inc/metabox.php:397, inc/metabox.php:1210, inc/metabox.php:1328
+msgid "Share Buttons"
+msgstr ""
+
+#: inc/metabox.php:91, inc/metabox.php:134, inc/metabox.php:399, inc/metabox.php:1212, inc/metabox.php:1330
+msgid "Activate or deactivate Share Buttons"
+msgstr ""
+
+#: inc/metabox.php:118
+msgid "Post Options"
+msgstr ""
+
+#: inc/metabox.php:161
+msgid "Cause Options"
+msgstr ""
+
+#: inc/metabox.php:175
+msgid "Donation Button"
+msgstr ""
+
+#: inc/metabox.php:177
+msgid "Activate or deactivate the donation button for this cause."
+msgstr ""
+
+#: inc/metabox.php:185
+msgid "Information box"
+msgstr ""
+
+#: inc/metabox.php:187
+msgid "Activate or deactivate the information box for this cause."
+msgstr ""
+
+#: inc/metabox.php:197
+msgid "Choose the Cause status"
+msgstr ""
+
+#: inc/metabox.php:199, inc/metabox.php:256
+msgid "None"
+msgstr ""
+
+#: inc/metabox.php:209
+msgid "The amount that should be accumulated for this cause"
+msgstr ""
+
+#: inc/metabox.php:213, inc/metabox.php:270
+msgid "End Date"
+msgstr ""
+
+#: inc/metabox.php:238
+msgid "Project Options"
+msgstr ""
+
+#: inc/metabox.php:254
+msgid "Choose the Project status"
+msgstr ""
+
+#: inc/metabox.php:264
+msgid "Start Date"
+msgstr ""
+
+#: inc/metabox.php:296
+msgid "Slider Options"
+msgstr ""
+
+#: inc/metabox.php:304
+msgid "Button Text"
+msgstr ""
+
+#: inc/metabox.php:306
+msgid "The text which will be displayed on the button"
+msgstr ""
+
+#: inc/metabox.php:310, inc/widgets/widget-text-enchanted.php:130, inc/widgets/widget-text-enchanted.php:169, inc/widgets/widget-text-enchanted.php:207, inc/widgets/widget-text-enchanted.php:245
+msgid "Button URL"
+msgstr ""
+
+#: inc/metabox.php:312
+msgid "The page to which the button and slide will link"
+msgstr ""
+
+#: inc/metabox.php:316
+msgid "Button target"
+msgstr ""
+
+#: inc/metabox.php:318, inc/metabox.php:388
+msgid "Should the button URL be opened in a new browser window?"
+msgstr ""
+
+#: inc/metabox.php:320, inc/metabox.php:506, inc/metabox.php:1263, inc/widgets/widget-causes.php:109, inc/widgets/widget-docs.php:110, inc/widgets/widget-events.php:155, inc/widgets/widget-gallery.php:110, inc/widgets/widget-instagram.php:177, inc/widgets/widget-ministries.php:100, inc/widgets/widget-projects.php:110, inc/widgets/widget-sermons.php:110, inc/widgets/widget-staff.php:125, inc/widgets/widget-text-enchanted.php:255
+msgid "Yes"
+msgstr ""
+
+#: inc/metabox.php:321, inc/metabox.php:507, inc/metabox.php:1264, inc/widgets/widget-causes.php:110, inc/widgets/widget-docs.php:111, inc/widgets/widget-events.php:156, inc/widgets/widget-gallery.php:111, inc/widgets/widget-instagram.php:178, inc/widgets/widget-ministries.php:101, inc/widgets/widget-projects.php:111, inc/widgets/widget-sermons.php:111, inc/widgets/widget-staff.php:126, inc/widgets/widget-text-enchanted.php:256
+msgid "No"
+msgstr ""
+
+#: inc/metabox.php:346
+msgid "Gallery Options"
+msgstr ""
+
+#: inc/metabox.php:359, inc/metabox.php:1100, inc/metabox.php:1295, inc/widgets/widget-gallery.php:37
+msgid "Gallery"
+msgstr ""
+
+#: inc/metabox.php:362, inc/metabox.php:1298
+msgid "Press the Add button in order to add images to gallery."
+msgstr ""
+
+#: inc/metabox.php:371, inc/metabox.php:1112, inc/metabox.php:1307
+msgid "Caption"
+msgstr ""
+
+#: inc/metabox.php:373, inc/metabox.php:1114, inc/metabox.php:1309
+msgid "Image caption"
+msgstr ""
+
+#: inc/metabox.php:377, inc/metabox.php:1118, inc/metabox.php:1313
+msgid "Gallery Image"
+msgstr ""
+
+#: inc/metabox.php:379, inc/metabox.php:1120
+msgid "The required dimensions:  (1200 x 800 px)"
+msgstr ""
+
+#: inc/metabox.php:386
+msgid "Sidebar Option"
+msgstr ""
+
+#: inc/metabox.php:426
+msgid "Pledge Options"
+msgstr ""
+
+#: inc/metabox.php:434, inc/metabox.php:436
+msgid "Choose the cause"
+msgstr ""
+
+#: inc/metabox.php:442
+msgid "Transaction ID/Token"
+msgstr ""
+
+#: inc/metabox.php:444
+msgid "Add the transaction ID"
+msgstr ""
+
+#: inc/metabox.php:448
+msgid "First name"
+msgstr ""
+
+#: inc/metabox.php:450
+msgid "Add the first name"
+msgstr ""
+
+#: inc/metabox.php:454
+msgid "Last name"
+msgstr ""
+
+#: inc/metabox.php:456
+msgid "Add the last name"
+msgstr ""
+
+#: inc/metabox.php:460
+msgid "Country"
+msgstr ""
+
+#: inc/metabox.php:462
+msgid "Add the Postal Code/Country"
+msgstr ""
+
+#: inc/metabox.php:468
+msgid "Add the Email address"
+msgstr ""
+
+#: inc/metabox.php:474
+msgid "Add the Donation Amount"
+msgstr ""
+
+#: inc/metabox.php:480
+msgid "Choose the pledge payment source"
+msgstr ""
+
+#: inc/metabox.php:482
+msgid "Manual"
+msgstr ""
+
+#: inc/metabox.php:484, inc/theme-options.php:2138
+msgid "Stripe"
+msgstr ""
+
+#: inc/metabox.php:486
+msgid "Check/Cash"
+msgstr ""
+
+#: inc/metabox.php:493
+msgid "Choose the pledge payment status"
+msgstr ""
+
+#: inc/metabox.php:496
+msgid "Refunded"
+msgstr ""
+
+#: inc/metabox.php:497
+msgid "Canceled"
+msgstr ""
+
+#: inc/metabox.php:502
+msgid "Anonymous Donation"
+msgstr ""
+
+#: inc/metabox.php:504
+msgid "If enabled, the donation will be hidden from public donation lists."
+msgstr ""
+
+#: inc/metabox.php:531
+msgid "Calendar Options"
+msgstr ""
+
+#: inc/metabox.php:540, inc/metabox.php:575, inc/metabox.php:880
+msgid "Event Color"
+msgstr ""
+
+#: inc/metabox.php:542, inc/metabox.php:577
+msgid "The default color of the events in the calendar. If an event has it's own custom color set, the event will override this setting."
+msgstr ""
+
+#: inc/metabox.php:566
+msgid "Google Calendar Options"
+msgstr ""
+
+#: inc/metabox.php:582
+msgid "Google Calendar ID"
+msgstr ""
+
+#: inc/metabox.php:584
+msgid "Add your Google Calendar ID. Read the theme documentation (wplook.com/docs) for more information."
+msgstr ""
+
+#: inc/metabox.php:607, inc/metabox.php:673, inc/metabox.php:741
+msgid "Events Display Options"
+msgstr ""
+
+#: inc/metabox.php:616, inc/metabox.php:682, inc/metabox.php:750, inc/theme-options.php:1059
+msgid "Pagination"
+msgstr ""
+
+#: inc/metabox.php:618, inc/metabox.php:684, inc/metabox.php:752
+msgid "If pagination is enabled, the standard system of displaying events by month will be disabled, and replaced with a list of events. The number of months of events displayed will still be controlled by the Duration field. This works well on sites with few events, split over multiple months."
+msgstr ""
+
+#: inc/metabox.php:807
+msgid "Events Options"
+msgstr ""
+
+#: inc/metabox.php:817, inc/metabox.php:939, inc/metabox.php:1008, inc/metabox.php:1097
+msgid "Optional! The image will be displayed in the header of the page, the required dimensions:  (1680 x 275)"
+msgstr ""
+
+#: inc/metabox.php:821
+msgid "Start date and time"
+msgstr ""
+
+#: inc/metabox.php:823
+msgid "The date and time of the start of the event, in the \"YYYY-MM-DD HH:MM\" format."
+msgstr ""
+
+#: inc/metabox.php:827
+msgid "End date and time"
+msgstr ""
+
+#: inc/metabox.php:829
+msgid "he date and time of the end of the event, in the \"YYYY-MM-DD HH:MM\" format."
+msgstr ""
+
+#: inc/metabox.php:835
+msgid "Is this a recurring event?"
+msgstr ""
+
+#: inc/metabox.php:844
+msgid "Repeat every x days"
+msgstr ""
+
+#: inc/metabox.php:846
+msgid "Required. Every how many days to repeat this event. For example, if you set the event to begin repeating from Tuesday 16/02/2029, to repeat every two days, it will repeat on Tuesday 16th, Thursday 18th, Saturday 20th and so on, until and including your repeat until date. The date set in start date and time will also be displayed as a separate event, so you do not need to include it in begin repeating from."
+msgstr ""
+
+#: inc/metabox.php:852
+msgid "Begin repeating from"
+msgstr ""
+
+#: inc/metabox.php:854
+msgid "Required. The first date on which this event should repeat (for example, a week after the set event date)."
+msgstr ""
+
+#: inc/metabox.php:860
+msgid "Repeat until"
+msgstr ""
+
+#: inc/metabox.php:862
+msgid "Required. The last date on which this event should repeat."
+msgstr ""
+
+#: inc/metabox.php:868
+msgid "Event Ticket Service"
+msgstr ""
+
+#: inc/metabox.php:870
+msgid "Add the event service name. For Example Facebook, Eventbrite."
+msgstr ""
+
+#: inc/metabox.php:874
+msgid "Event Ticket Service URL"
+msgstr ""
+
+#: inc/metabox.php:876
+msgid "Add the event service url. Ex: Add the link to your Facebook or Eventbrite event page."
+msgstr ""
+
+#: inc/metabox.php:882
+msgid "Select the event color for calendar. Keep it blank if you want to use the default event color."
+msgstr ""
+
+#: inc/metabox.php:886
+msgid "Event Location"
+msgstr ""
+
+#: inc/metabox.php:888
+msgid "A user-friendly name of the building where the event will take place."
+msgstr ""
+
+#: inc/metabox.php:892
+msgid "Event Address"
+msgstr ""
+
+#: inc/metabox.php:894
+msgid "User-friendly address of the event which will be displayed above the map in the information panel. Consider including some directions or a description of your event location to make it easier to find."
+msgstr ""
+
+#: inc/metabox.php:898
+msgid "Event Google Maps Location"
+msgstr ""
+
+#: inc/metabox.php:900
+msgid "Maps are displayed using Google Maps, so check your location is displayed correctly there before pasting it in here. Remember to include your Google Maps API key on the Theme Options page for maps to be displayed correctly."
+msgstr ""
+
+#: inc/metabox.php:904, inc/metabox.php:973
+msgid "Pin Map Icon"
+msgstr ""
+
+#: inc/metabox.php:906, inc/metabox.php:975
+msgid "Upload an image of a pin for the map. Recommended image size: ~32x32px."
+msgstr ""
+
+#: inc/metabox.php:929
+msgid "Ministry Options"
+msgstr ""
+
+#: inc/metabox.php:943
+msgid "When the ministry will take place"
+msgstr ""
+
+#: inc/metabox.php:945
+msgid "Ex: Every Sunday"
+msgstr ""
+
+#: inc/metabox.php:949
+msgid "Start Time"
+msgstr ""
+
+#: inc/metabox.php:951
+msgid "Insert the event time. Use 24h time format. Ex: 21:00"
+msgstr ""
+
+#: inc/metabox.php:955
+msgid "Ministry Location"
+msgstr ""
+
+#: inc/metabox.php:957
+msgid "A user-friendly name of the building where the ministry will take place."
+msgstr ""
+
+#: inc/metabox.php:961
+msgid "Ministry Address"
+msgstr ""
+
+#: inc/metabox.php:963
+msgid "User-friendly address of the ministry which will be displayed above the map in the information panel. Consider including some directions or a description of your ministry location to make it easier to find."
+msgstr ""
+
+#: inc/metabox.php:967
+msgid "Ministry Google Maps Location"
+msgstr ""
+
+#: inc/metabox.php:969
+msgid "Maps are dispayed using Google Maps, so check your location is displayed correctly there before pasting it in here. Remember to include your Google Maps API key on the Theme Options  page for maps to be displayed correctly."
+msgstr ""
+
+#: inc/metabox.php:998
+msgid "Staff Options"
+msgstr ""
+
+#: inc/metabox.php:1014
+msgid "Candidate position, (ex: CEO/Co-Founder)"
+msgstr ""
+
+#: inc/metabox.php:1020
+msgid "Candidate phone number"
+msgstr ""
+
+#: inc/metabox.php:1026
+msgid "Candidate email address"
+msgstr ""
+
+#: inc/metabox.php:1030
+msgid "Blog URL"
+msgstr ""
+
+#: inc/metabox.php:1032
+msgid "Candidate Blog URL"
+msgstr ""
+
+#: inc/metabox.php:1035
+msgid "Social Network links"
+msgstr ""
+
+#: inc/metabox.php:1038
+msgid "Press the Add button in order to add social media links."
+msgstr ""
+
+#: inc/metabox.php:1047, inc/theme-options.php:379
+msgid "Service Name"
+msgstr ""
+
+#: inc/metabox.php:1049, inc/theme-options.php:382
+msgid "The name of the social network site, for example: \"Facebook\""
+msgstr ""
+
+#: inc/metabox.php:1055, inc/theme-options.php:394
+msgid "Enter the URL of the social network site, for example: http://www.facebook.com/wplookthemes"
+msgstr ""
+
+#: inc/metabox.php:1059
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/metabox.php:1061
+msgid "NOTICE: Choose one item from tne next list: fab fa-facebook-f, fab fa-twitter, etc. For more options acccess: https://fontawesome.com/icons?d=gallery&m=free"
+msgstr ""
+
+#: inc/metabox.php:1087
+msgid "Sermons Media Options"
+msgstr ""
+
+#: inc/metabox.php:1103
+msgid "Press the Add button in order to add images."
+msgstr ""
+
+#: inc/metabox.php:1126
+msgid "OLD Video URL"
+msgstr ""
+
+#: inc/metabox.php:1128
+msgid "This field will be deprecated in the next versions. Keep this field Blank."
+msgstr ""
+
+#: inc/metabox.php:1134
+msgid "Press the Add button in order to add videos."
+msgstr ""
+
+#: inc/metabox.php:1143
+msgid "Add Video Title"
+msgstr ""
+
+#: inc/metabox.php:1145
+msgid "Add video Title"
+msgstr ""
+
+#: inc/metabox.php:1149
+msgid "Add Video URL"
+msgstr ""
+
+#: inc/metabox.php:1151
+msgid "Add video url"
+msgstr ""
+
+#: inc/metabox.php:1160
+msgid "Press the Add button in order to add audio files."
+msgstr ""
+
+#: inc/metabox.php:1169, inc/metabox.php:1195
+msgid "File title"
+msgstr ""
+
+#: inc/metabox.php:1175
+msgid "Audio File"
+msgstr ""
+
+#: inc/metabox.php:1177
+msgid "Add audio file"
+msgstr ""
+
+#: inc/metabox.php:1183, inc/theme-options.php:1441, inc/custom-post-type/documents.php:24, inc/widgets/widget-docs.php:37
+msgid "Documents"
+msgstr ""
+
+#: inc/metabox.php:1186
+msgid "Press the Add button in order to add a document."
+msgstr ""
+
+#: inc/metabox.php:1201
+msgid "Document"
+msgstr ""
+
+#: inc/metabox.php:1203
+msgid "Add a document"
+msgstr ""
+
+#: inc/metabox.php:1239
+msgid "Sponsor Options"
+msgstr ""
+
+#: inc/metabox.php:1247
+msgid "Logo"
+msgstr ""
+
+#: inc/metabox.php:1249
+msgid "The required dimensions:  (260x80px)."
+msgstr ""
+
+#: inc/metabox.php:1255
+msgid "Add a sponsor URL, ex: https://wplook.com"
+msgstr ""
+
+#: inc/metabox.php:1259
+msgid "Open in a new tab?"
+msgstr ""
+
+#: inc/metabox.php:1261
+msgid "Do you want to open the sponsors site in a new browser tab?"
+msgstr ""
+
+#: inc/metabox.php:1288
+msgid "Media Options"
+msgstr ""
+
+#: inc/metabox.php:1315
+msgid "AThe required dimensions:  (1200 x 800 px)"
+msgstr ""
+
+#: inc/metabox.php:1324
+msgid "Add a video for this cause"
+msgstr ""
+
+#: inc/theme-options.php:59
+msgid "General settings"
+msgstr ""
+
+#: inc/theme-options.php:69
+msgid "Toolbar settings"
+msgstr ""
+
+#: inc/theme-options.php:79
+msgid "Home page settings"
+msgstr ""
+
+#: inc/theme-options.php:89
+msgid "Slider settings"
+msgstr ""
+
+#: inc/theme-options.php:99
+msgid "Causes settings"
+msgstr ""
+
+#: inc/theme-options.php:109
+msgid "Blog settings"
+msgstr ""
+
+#: inc/theme-options.php:119
+msgid "Events settings"
+msgstr ""
+
+#: inc/theme-options.php:129
+msgid "Staff settings"
+msgstr ""
+
+#: inc/theme-options.php:139
+msgid "Documents settings"
+msgstr ""
+
+#: inc/theme-options.php:149
+msgid "Projects settings"
+msgstr ""
+
+#: inc/theme-options.php:159
+msgid "Gallery settings"
+msgstr ""
+
+#: inc/theme-options.php:169
+msgid "Sermons settings"
+msgstr ""
+
+#: inc/theme-options.php:179
+msgid "Ministries settings"
+msgstr ""
+
+#: inc/theme-options.php:189
+msgid "Sponsors settings"
+msgstr ""
+
+#: inc/theme-options.php:199
+msgid "Payment settings"
+msgstr ""
+
+#: inc/theme-options.php:208
+msgid "User Pages"
+msgstr ""
+
+#: inc/theme-options.php:217
+msgid "Email Templates"
+msgstr ""
+
+#: inc/theme-options.php:226
+msgid "API Settings"
+msgstr ""
+
+#: inc/theme-options.php:239
+msgid "Logo Image"
+msgstr ""
+
+#: inc/theme-options.php:242
+msgid "Upload your own logo."
+msgstr ""
+
+#: inc/theme-options.php:252
+msgid "Custom Cascading Style Sheets"
+msgstr ""
+
+#: inc/theme-options.php:255
+msgid "Add custom CSS to your theme."
+msgstr ""
+
+#: inc/theme-options.php:265
+msgid "Google Analytics Tracking Code"
+msgstr ""
+
+#: inc/theme-options.php:268
+msgid "Insert the complete tracking script from analytics.google.com"
+msgstr ""
+
+#: inc/theme-options.php:278
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:281
+msgid "Activate or deactivate the breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:291
+msgid "Shopping cart"
+msgstr ""
+
+#: inc/theme-options.php:294
+msgid "Activate or deactivate the shopping cart. WooCommerce plugin is required"
+msgstr ""
+
+#: inc/theme-options.php:303
+msgid "Donate Text"
+msgstr ""
+
+#: inc/theme-options.php:306
+msgid "Add text for donation button"
+msgstr ""
+
+#: inc/theme-options.php:307
+msgid "Make a Donation!"
+msgstr ""
+
+#: inc/theme-options.php:316
+msgid "Donate Link"
+msgstr ""
+
+#: inc/theme-options.php:319
+msgid "Add the donate link"
+msgstr ""
+
+#: inc/theme-options.php:329
+msgid "Display share buttons on pages"
+msgstr ""
+
+#: inc/theme-options.php:332
+msgid "Do you want social sharing buttons to be displayed on pages?"
+msgstr ""
+
+#: inc/theme-options.php:342
+msgid "Submenu on child page"
+msgstr ""
+
+#: inc/theme-options.php:345
+msgid "Activate or deactivate the menu on pages."
+msgstr ""
+
+#: inc/theme-options.php:355
+msgid "Footer Content"
+msgstr ""
+
+#: inc/theme-options.php:358
+msgid "Enter the copyright notice displayed in the footer of the website.<br><br>Use <code>{{year}}</code> as a placeholder for the current year."
+msgstr ""
+
+#: inc/theme-options.php:359
+msgid "Copyright &copy; {{year}}. All rights reserved."
+msgstr ""
+
+#: inc/theme-options.php:373
+msgid "Social Network Navigation"
+msgstr ""
+
+#: inc/theme-options.php:376
+msgid "Press the <strong>Add New</strong> button in order to add social media links."
+msgstr ""
+
+#: inc/theme-options.php:403
+msgid "Icon"
+msgstr ""
+
+#: inc/theme-options.php:406
+msgid "<strong>NOTICE</strong>: Choose one item from tne next list: fab fa-facebook-f, <br />fab fa-twitter, etc. For more options acccess: https://fontawesome.com/icons?d=gallery&m=free"
+msgstr ""
+
+#: inc/theme-options.php:423
+msgid "Phone Number"
+msgstr ""
+
+#: inc/theme-options.php:426
+msgid "Add a phone Number"
+msgstr ""
+
+#: inc/theme-options.php:436
+msgid "RSS Link"
+msgstr ""
+
+#: inc/theme-options.php:439
+msgid "Add the RSS link or Feedburner RSS Link"
+msgstr ""
+
+#: inc/theme-options.php:449
+msgid "Contact page Link"
+msgstr ""
+
+#: inc/theme-options.php:452
+msgid "Select the contact page"
+msgstr ""
+
+#: inc/theme-options.php:462
+msgid "Search Button"
+msgstr ""
+
+#: inc/theme-options.php:465
+msgid "Activate the search option in the toolbar"
+msgstr ""
+
+#: inc/theme-options.php:480
+msgid "First home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:483
+msgid "Set the size for first home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:486, inc/theme-options.php:517, inc/theme-options.php:548, inc/theme-options.php:579, inc/theme-options.php:610, inc/theme-options.php:641
+msgid "25%"
+msgstr ""
+
+#: inc/theme-options.php:490, inc/theme-options.php:521, inc/theme-options.php:552, inc/theme-options.php:583, inc/theme-options.php:614, inc/theme-options.php:645
+msgid "50%"
+msgstr ""
+
+#: inc/theme-options.php:494, inc/theme-options.php:525, inc/theme-options.php:556, inc/theme-options.php:587, inc/theme-options.php:618, inc/theme-options.php:649
+msgid "75%"
+msgstr ""
+
+#: inc/theme-options.php:498, inc/theme-options.php:529, inc/theme-options.php:560, inc/theme-options.php:591, inc/theme-options.php:622, inc/theme-options.php:653
+msgid "100%"
+msgstr ""
+
+#: inc/theme-options.php:511
+msgid "Second home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:514
+msgid "Set the size for second home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:542
+msgid "Third home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:545
+msgid "Set the size for third home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:573
+msgid "Fourth home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:576
+msgid "Set the size for fourth home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:604
+msgid "Fifth home page widget area size"
+msgstr ""
+
+#: inc/theme-options.php:607
+msgid "Set the size for fifth home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:635
+msgid "Sixth home page widget area size"
+msgstr ""
+
+#: inc/theme-options.php:638
+msgid "Set the size for sixth home page widget area"
+msgstr ""
+
+#: inc/theme-options.php:669
+msgid "Custom Post Type Slider"
+msgstr ""
+
+#: inc/theme-options.php:672
+msgid "Activate the Custom Post Type Slider"
+msgstr ""
+
+#: inc/theme-options.php:682
+msgid "Order the Slider by:"
+msgstr ""
+
+#: inc/theme-options.php:685
+msgid "Order the slider by: Post Date or Post Menu Order (Go to Slides -> Quick Edit -> Set the Order)"
+msgstr ""
+
+#: inc/theme-options.php:688
+msgid "Post Date"
+msgstr ""
+
+#: inc/theme-options.php:692
+msgid "Post Menu Order"
+msgstr ""
+
+#: inc/theme-options.php:705
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/theme-options.php:708
+msgid "Activate the Revolution Slider. Revolution Slider is not included in the theme. You can buy it from here: http://bit.ly/1eD7aE1"
+msgstr ""
+
+#: inc/theme-options.php:718
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: inc/theme-options.php:721
+msgid "Revolution Slider Alias. If you have installed the revolution slider Plugin, add the Slider Alias here. From this example [rev_slider test] you need to add only the word test."
+msgstr ""
+
+#: inc/theme-options.php:737
+msgid "Custom Post Type Causes"
+msgstr ""
+
+#: inc/theme-options.php:740
+msgid "Activate the Custom Post Type Causes"
+msgstr ""
+
+#: inc/theme-options.php:750
+msgid "Custom Post Type Pledges"
+msgstr ""
+
+#: inc/theme-options.php:753
+msgid "Activate the Custom Post Type Pledges"
+msgstr ""
+
+#: inc/theme-options.php:763, inc/theme-options.php:1007, inc/theme-options.php:1354, inc/theme-options.php:1424, inc/theme-options.php:1542, inc/theme-options.php:1728, inc/theme-options.php:1798, inc/theme-options.php:1916
+msgid "URL Rewrite"
+msgstr ""
+
+#: inc/theme-options.php:766, inc/theme-options.php:792, inc/theme-options.php:1010, inc/theme-options.php:1357, inc/theme-options.php:1383, inc/theme-options.php:1427, inc/theme-options.php:1453, inc/theme-options.php:1545, inc/theme-options.php:1571, inc/theme-options.php:1731, inc/theme-options.php:1757, inc/theme-options.php:1801, inc/theme-options.php:1827, inc/theme-options.php:1919, inc/theme-options.php:1945
+msgid "<strong>NOTE:</strong> After changing this field go to Settings > Permalinks > Save Changes"
+msgstr ""
+
+#: inc/theme-options.php:776, inc/theme-options.php:1020
+msgid "URL Rewrite name"
+msgstr ""
+
+#: inc/theme-options.php:779, inc/theme-options.php:1023, inc/theme-options.php:1370, inc/theme-options.php:1440, inc/theme-options.php:1558, inc/theme-options.php:1744, inc/theme-options.php:1814, inc/theme-options.php:1932
+msgid "The URL Rewrite name will appear in the rootline/breadcrumb"
+msgstr ""
+
+#: inc/theme-options.php:780, inc/custom-post-type/causes.php:24, inc/widgets/widget-causes.php:36
+msgid "Causes"
+msgstr ""
+
+#: inc/theme-options.php:789, inc/theme-options.php:1380, inc/theme-options.php:1450, inc/theme-options.php:1568, inc/theme-options.php:1754, inc/theme-options.php:1824, inc/theme-options.php:1942
+msgid "Category URL Rewrite"
+msgstr ""
+
+#: inc/theme-options.php:802, inc/theme-options.php:870, inc/theme-options.php:1463, inc/theme-options.php:1608, inc/theme-options.php:1837, inc/theme-options.php:1955
+msgid "Excerpt limit for list template"
+msgstr ""
+
+#: inc/theme-options.php:805, inc/theme-options.php:818
+msgid "Set how many words do you want to display for causes excerpt."
+msgstr ""
+
+#: inc/theme-options.php:815, inc/theme-options.php:883, inc/theme-options.php:1476, inc/theme-options.php:1850
+msgid "Excerpt limit for grid template"
+msgstr ""
+
+#: inc/theme-options.php:828
+msgid "Number of causes per page"
+msgstr ""
+
+#: inc/theme-options.php:831
+msgid "Set how many causes do you want to display on causes template."
+msgstr ""
+
+#: inc/theme-options.php:841, inc/theme-options.php:1502, inc/theme-options.php:1686, inc/theme-options.php:1876
+msgid "Taxonomy Template"
+msgstr ""
+
+#: inc/theme-options.php:844, inc/theme-options.php:1505, inc/theme-options.php:1689, inc/theme-options.php:1879
+msgid "Select the template you want to use for categories."
+msgstr ""
+
+#: inc/theme-options.php:847, inc/theme-options.php:1512, inc/theme-options.php:1692, inc/theme-options.php:1882
+msgid "List"
+msgstr ""
+
+#: inc/theme-options.php:851, inc/theme-options.php:1508, inc/theme-options.php:1696, inc/theme-options.php:1886
+msgid "Grid"
+msgstr ""
+
+#: inc/theme-options.php:873, inc/theme-options.php:886
+msgid "Set how many words do you want to display for blog excerpt."
+msgstr ""
+
+#: inc/theme-options.php:896
+msgid "Number of news per page"
+msgstr ""
+
+#: inc/theme-options.php:899
+msgid "Set how many cause do you want to display on blog template."
+msgstr ""
+
+#: inc/theme-options.php:910
+msgid "Featured image on single post"
+msgstr ""
+
+#: inc/theme-options.php:913
+msgid "Activate/Deactivated the Featured image on single post"
+msgstr ""
+
+#: inc/theme-options.php:923
+msgid "Date on single post"
+msgstr ""
+
+#: inc/theme-options.php:926
+msgid "Activate/Deactivated the date on single post"
+msgstr ""
+
+#: inc/theme-options.php:936
+msgid "Author on single post"
+msgstr ""
+
+#: inc/theme-options.php:939
+msgid "Activate/Deactivated the author on single post"
+msgstr ""
+
+#: inc/theme-options.php:949
+msgid "Category on single post"
+msgstr ""
+
+#: inc/theme-options.php:952
+msgid "Activate/Deactivated the category on single post"
+msgstr ""
+
+#: inc/theme-options.php:963
+msgid "Date on blog post"
+msgstr ""
+
+#: inc/theme-options.php:966
+msgid "Activate/Deactivated the date on blog post."
+msgstr ""
+
+#: inc/theme-options.php:976
+msgid "Author on Blog post"
+msgstr ""
+
+#: inc/theme-options.php:979
+msgid "Activate/Deactivated the author on blog post."
+msgstr ""
+
+#: inc/theme-options.php:994
+msgid "Custom Post Type Events"
+msgstr ""
+
+#: inc/theme-options.php:997
+msgid "Activate the Custom Post Type Events"
+msgstr ""
+
+#: inc/theme-options.php:1024, inc/custom-post-type/events.php:25, inc/widgets/widget-events.php:37
+msgid "Events"
+msgstr ""
+
+#: inc/theme-options.php:1046
+msgid "Excerpt limit"
+msgstr ""
+
+#: inc/theme-options.php:1049
+msgid "Set how many words do you want to display for upcoming and past events excerpt."
+msgstr ""
+
+#: inc/theme-options.php:1062
+msgid "If pagination is enabled, the standard system of displaying events by month will be disabled, and replaced with a list of events. The number of months of events displayed will still be controlled by the Duration field. This works well on sites with few events, split over multiple months. This setting applies only to archive and category pages."
+msgstr ""
+
+#: inc/theme-options.php:1072
+msgid "Events per page"
+msgstr ""
+
+#: inc/theme-options.php:1075
+msgid "The number of events to display per page. This setting applies only to archive and category pages."
+msgstr ""
+
+#: inc/theme-options.php:1087
+msgid "Duration"
+msgstr ""
+
+#: inc/theme-options.php:1090
+msgid "Select how many months of events this page will display. This setting applies only to archive and category pages."
+msgstr ""
+
+#: inc/theme-options.php:1101
+msgid "Calendar language"
+msgstr ""
+
+#: inc/theme-options.php:1107
+msgid "Arabic (Morocco)"
+msgstr ""
+
+#: inc/theme-options.php:1111
+msgid "Arabic (Saudi Arabia)"
+msgstr ""
+
+#: inc/theme-options.php:1115
+msgid "Arabic (Tunisia)"
+msgstr ""
+
+#: inc/theme-options.php:1119
+msgid "Arabic (Standard)"
+msgstr ""
+
+#: inc/theme-options.php:1123
+msgid "Bulgarian"
+msgstr ""
+
+#: inc/theme-options.php:1127
+msgid "Catalan"
+msgstr ""
+
+#: inc/theme-options.php:1131
+msgid "Czech"
+msgstr ""
+
+#: inc/theme-options.php:1135
+msgid "Danish"
+msgstr ""
+
+#: inc/theme-options.php:1139
+msgid "German (Austria)"
+msgstr ""
+
+#: inc/theme-options.php:1143
+msgid "German (Standard)"
+msgstr ""
+
+#: inc/theme-options.php:1147
+msgid "Greek"
+msgstr ""
+
+#: inc/theme-options.php:1151
+msgid "English (Australia)"
+msgstr ""
+
+#: inc/theme-options.php:1155
+msgid "English (Canada)"
+msgstr ""
+
+#: inc/theme-options.php:1159
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: inc/theme-options.php:1163
+msgid "English (Ireland)"
+msgstr ""
+
+#: inc/theme-options.php:1167
+msgid "English (New Zealand)"
+msgstr ""
+
+#: inc/theme-options.php:1171
+msgid "English (Standard)"
+msgstr ""
+
+#: inc/theme-options.php:1175
+msgid "Spanish"
+msgstr ""
+
+#: inc/theme-options.php:1179
+msgid "Basque"
+msgstr ""
+
+#: inc/theme-options.php:1183
+msgid "Farsi"
+msgstr ""
+
+#: inc/theme-options.php:1187
+msgid "Finnish"
+msgstr ""
+
+#: inc/theme-options.php:1191
+msgid "French (Canada)"
+msgstr ""
+
+#: inc/theme-options.php:1195
+msgid "French (Switzerland)"
+msgstr ""
+
+#: inc/theme-options.php:1199
+msgid "French (Standard)"
+msgstr ""
+
+#: inc/theme-options.php:1203
+msgid "Galician"
+msgstr ""
+
+#: inc/theme-options.php:1207
+msgid "Hebrew"
+msgstr ""
+
+#: inc/theme-options.php:1211
+msgid "Hindi"
+msgstr ""
+
+#: inc/theme-options.php:1215
+msgid "Croatian"
+msgstr ""
+
+#: inc/theme-options.php:1219
+msgid "Hungarian"
+msgstr ""
+
+#: inc/theme-options.php:1223
+msgid "Indonesian"
+msgstr ""
+
+#: inc/theme-options.php:1227
+msgid "Icelandic"
+msgstr ""
+
+#: inc/theme-options.php:1231
+msgid "Italian"
+msgstr ""
+
+#: inc/theme-options.php:1235
+msgid "Japanese"
+msgstr ""
+
+#: inc/theme-options.php:1239
+msgid "Korean"
+msgstr ""
+
+#: inc/theme-options.php:1243
+msgid "Luxembourgish"
+msgstr ""
+
+#: inc/theme-options.php:1247
+msgid "Lithuanian"
+msgstr ""
+
+#: inc/theme-options.php:1251
+msgid "Latvian"
+msgstr ""
+
+#: inc/theme-options.php:1255
+msgid "Norwegian (Bokmål)"
+msgstr ""
+
+#: inc/theme-options.php:1259
+msgid "Dutch"
+msgstr ""
+
+#: inc/theme-options.php:1263
+msgid "Polish"
+msgstr ""
+
+#: inc/theme-options.php:1267
+msgid "Portugese (Brazil)"
+msgstr ""
+
+#: inc/theme-options.php:1271
+msgid "Portugese (Portugal)"
+msgstr ""
+
+#: inc/theme-options.php:1275
+msgid "Romanian"
+msgstr ""
+
+#: inc/theme-options.php:1279
+msgid "Russian"
+msgstr ""
+
+#: inc/theme-options.php:1283
+msgid "Slovak"
+msgstr ""
+
+#: inc/theme-options.php:1287
+msgid "Slovenian"
+msgstr ""
+
+#: inc/theme-options.php:1291
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+#: inc/theme-options.php:1295
+msgid "Serbian (Latin)"
+msgstr ""
+
+#: inc/theme-options.php:1299
+msgid "Swedish"
+msgstr ""
+
+#: inc/theme-options.php:1303
+msgid "Thai"
+msgstr ""
+
+#: inc/theme-options.php:1307
+msgid "Turkish"
+msgstr ""
+
+#: inc/theme-options.php:1311
+msgid "Ukrainian"
+msgstr ""
+
+#: inc/theme-options.php:1315
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/theme-options.php:1319
+msgid "Chinese (PRC)"
+msgstr ""
+
+#: inc/theme-options.php:1323
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: inc/theme-options.php:1326
+msgid "Display the times in the Google Calendar and Events Calendar page templates in a format appropriate for a specified language and region."
+msgstr ""
+
+#: inc/theme-options.php:1341
+msgid "Custom Post Type Staff"
+msgstr ""
+
+#: inc/theme-options.php:1344
+msgid "Activate the Custom Post Type Staff"
+msgstr ""
+
+#: inc/theme-options.php:1367, inc/theme-options.php:1437, inc/theme-options.php:1555, inc/theme-options.php:1741, inc/theme-options.php:1811, inc/theme-options.php:1929
+msgid "URL Rewrite Name"
+msgstr ""
+
+#: inc/theme-options.php:1371, inc/custom-post-type/staff.php:25, inc/widgets/widget-staff.php:37
+msgid "Staff"
+msgstr ""
+
+#: inc/theme-options.php:1393
+msgid "Number of staff per page"
+msgstr ""
+
+#: inc/theme-options.php:1396
+msgid "Set how many staff members do you want to display on staff template."
+msgstr ""
+
+#: inc/theme-options.php:1411
+msgid "Custom Post Type Documents"
+msgstr ""
+
+#: inc/theme-options.php:1414
+msgid "Activate the Custom Post Type Publications"
+msgstr ""
+
+#: inc/theme-options.php:1466, inc/theme-options.php:1479
+msgid "Set how many words do you want to display for documents excerpt."
+msgstr ""
+
+#: inc/theme-options.php:1489
+msgid "Number of documents per page"
+msgstr ""
+
+#: inc/theme-options.php:1492
+msgid "Set how many documents do you want to display on document template."
+msgstr ""
+
+#: inc/theme-options.php:1529
+msgid "Custom Post Type Projects"
+msgstr ""
+
+#: inc/theme-options.php:1532
+msgid "Activate the Custom Post Type Projects"
+msgstr ""
+
+#: inc/theme-options.php:1559, inc/custom-post-type/projects.php:24, inc/widgets/widget-projects.php:37
+msgid "Projects"
+msgstr ""
+
+#: inc/theme-options.php:1581
+msgid "Display project status box"
+msgstr ""
+
+#: inc/theme-options.php:1584
+msgid "Whether to display or hide the project status box on single project pages, including the project status, project start and end dates and sharing options."
+msgstr ""
+
+#: inc/theme-options.php:1594
+msgid "Projects - List Template"
+msgstr ""
+
+#: inc/theme-options.php:1597
+msgid "Settings for Projects - List Template"
+msgstr ""
+
+#: inc/theme-options.php:1611, inc/theme-options.php:1663
+msgid "Set how many words do you want to display for project excerpt."
+msgstr ""
+
+#: inc/theme-options.php:1621
+msgid "Display/hide the author on list template"
+msgstr ""
+
+#: inc/theme-options.php:1624, inc/theme-options.php:1650
+msgid "Display or hide the Author on list template"
+msgstr ""
+
+#: inc/theme-options.php:1634
+msgid "Display/hide the date on list template"
+msgstr ""
+
+#: inc/theme-options.php:1637
+msgid "Display or hide the Date on list template"
+msgstr ""
+
+#: inc/theme-options.php:1647
+msgid "Display/hide author on list template"
+msgstr ""
+
+#: inc/theme-options.php:1660
+msgid "Excerpt limit for widget text and grid template"
+msgstr ""
+
+#: inc/theme-options.php:1673
+msgid "Number of projects per page"
+msgstr ""
+
+#: inc/theme-options.php:1676
+msgid "Set how many projects do you want to display on project template."
+msgstr ""
+
+#: inc/theme-options.php:1715
+msgid "Custom Post Type Gallery"
+msgstr ""
+
+#: inc/theme-options.php:1718
+msgid "Activate the Custom Post Type Gallery"
+msgstr ""
+
+#: inc/theme-options.php:1745, inc/custom-post-type/gallery.php:26
+msgid "Galleries"
+msgstr ""
+
+#: inc/theme-options.php:1767
+msgid "Number of galleries per page"
+msgstr ""
+
+#: inc/theme-options.php:1770
+msgid "Set how many galleries do you want to display on gallery template."
+msgstr ""
+
+#: inc/theme-options.php:1785
+msgid "Custom Post Type Sermons"
+msgstr ""
+
+#: inc/theme-options.php:1788
+msgid "Activate the Custom Post Type Sermons"
+msgstr ""
+
+#: inc/theme-options.php:1815, inc/custom-post-type/sermons.php:25, inc/widgets/widget-sermons.php:37
+msgid "Sermons"
+msgstr ""
+
+#: inc/theme-options.php:1840, inc/theme-options.php:1853
+msgid "Set how many words do you want to display for excerpt."
+msgstr ""
+
+#: inc/theme-options.php:1863
+msgid "Number of sermons per page"
+msgstr ""
+
+#: inc/theme-options.php:1866
+msgid "Set how many sermons do you want to display on sermon template."
+msgstr ""
+
+#: inc/theme-options.php:1903
+msgid "Custom Post Type Ministries"
+msgstr ""
+
+#: inc/theme-options.php:1906
+msgid "Activate the Custom Post Type Ministries"
+msgstr ""
+
+#: inc/theme-options.php:1933, inc/custom-post-type/ministries.php:24, inc/widgets/widget-ministries.php:37
+msgid "Ministries"
+msgstr ""
+
+#: inc/theme-options.php:1958
+msgid "Set how many words do you want to display for ministry excerpt."
+msgstr ""
+
+#: inc/theme-options.php:1968
+msgid "Excerpt limit for widget text"
+msgstr ""
+
+#: inc/theme-options.php:1971
+msgid "Set how many words do you want to display for ministries excerpt."
+msgstr ""
+
+#: inc/theme-options.php:1981
+msgid "Number of ministries per page"
+msgstr ""
+
+#: inc/theme-options.php:1984
+msgid "Set how many items do you want to display on ministries template."
+msgstr ""
+
+#: inc/theme-options.php:2000
+msgid "Custom Post Type Sponsors"
+msgstr ""
+
+#: inc/theme-options.php:2003
+msgid "Activate the Custom Post Type Sponsors"
+msgstr ""
+
+#: inc/theme-options.php:2013
+msgid "Number of Sponsor to display"
+msgstr ""
+
+#: inc/theme-options.php:2016
+msgid "Set how many sponsors do you want to display."
+msgstr ""
+
+#: inc/theme-options.php:2034
+msgid "Enter your credentials for the PayPal and Stripe APIs here. To create keys, follow instructions in the <a href=\"%s\" target=\"_blank\">WPlook Themes documentation</a>."
+msgstr ""
+
+#: inc/theme-options.php:2053
+msgid "Enable PayPal"
+msgstr ""
+
+#: inc/theme-options.php:2056
+msgid "Enable and configure below to allow your site to accept donations through PayPal."
+msgstr ""
+
+#: inc/theme-options.php:2066
+msgid "API Username"
+msgstr ""
+
+#: inc/theme-options.php:2080
+msgid "API Password"
+msgstr ""
+
+#: inc/theme-options.php:2094
+msgid "API Signature"
+msgstr ""
+
+#: inc/theme-options.php:2108
+msgid "Success Page"
+msgstr ""
+
+#: inc/theme-options.php:2111
+msgid "Select the page where the user will be redirected to after a successful donation. This page <strong>must</strong> use the <strong>PayPal Thank You!</strong> page template."
+msgstr ""
+
+#: inc/theme-options.php:2122
+msgid "Failure Page"
+msgstr ""
+
+#: inc/theme-options.php:2125
+msgid "Select the page where the user will be redirected to after a failed or cancelled donation. This page doesn't have to use a specific page template."
+msgstr ""
+
+#: inc/theme-options.php:2145
+msgid "Enable Stripe"
+msgstr ""
+
+#: inc/theme-options.php:2148
+msgid "Enable and configure below to allow your site to accept donations through Stripe, allowing users to put in their debit or credit card details directly on your site, before using Stripe to complete the payment."
+msgstr ""
+
+#: inc/theme-options.php:2158
+msgid "Live Secret Key"
+msgstr ""
+
+#: inc/theme-options.php:2170
+msgid "Live Publishable Key"
+msgstr ""
+
+#: inc/theme-options.php:2182
+msgid "Processing Page"
+msgstr ""
+
+#: inc/theme-options.php:2185
+msgid "Select the page where the user will be redirected to after a successful donation. This page <strong>must</strong> use the <strong>Stripe Thank You!</strong> page template."
+msgstr ""
+
+#: inc/theme-options.php:2198
+msgid "Site Settings"
+msgstr ""
+
+#: inc/theme-options.php:2205
+msgid "Minimum Donation Amount"
+msgstr ""
+
+#: inc/theme-options.php:2208
+msgid "Enter the minimum donation amount for the Custom Amount box on Cause pages."
+msgstr ""
+
+#: inc/theme-options.php:2218
+msgid "Currency Code"
+msgstr ""
+
+#: inc/theme-options.php:2221
+msgid "Select the currency code for your country, such as USD, EUR or CAD."
+msgstr ""
+
+#: inc/theme-options.php:2234
+msgid "Register Page"
+msgstr ""
+
+#: inc/theme-options.php:2237
+msgid "Select register page"
+msgstr ""
+
+#: inc/theme-options.php:2247
+msgid "Login Page"
+msgstr ""
+
+#: inc/theme-options.php:2250
+msgid "Select Login page"
+msgstr ""
+
+#: inc/theme-options.php:2260
+msgid "Subscriptions Page"
+msgstr ""
+
+#: inc/theme-options.php:2263
+msgid "Select Subscriptions page"
+msgstr ""
+
+#: inc/theme-options.php:2273
+msgid "Donations Page"
+msgstr ""
+
+#: inc/theme-options.php:2276
+msgid "Select donations page"
+msgstr ""
+
+#: inc/theme-options.php:2291
+msgid "Email Variables"
+msgstr ""
+
+#: inc/theme-options.php:2294
+msgid ""
+"\n"
+"							<p>Use these variables in the email content to automatically replace them with data relevant to the transaction.</p>\n"
+"							<p>First Name - <code>{{ wpl_first_name }}</code></p>\n"
+"							<p>Last Name - <code>{{ wpl_last_name }}</code></p>\n"
+"							<p>Donation Amount - <code>{{ wpl_total }}</code></p>\n"
+"							<p>Curency Code - <code>{{ wpl_curency_code }}</code></p>\n"
+"							<p>Cause URL - <code>{{ wpl_url_cause }}</code></p>\n"
+"							<p>Cause Title - <code>{{ wpl_title_cause }}</code></p>\n"
+"							<p>Customer ID - <code>{{ wpl_customer }}</code></p>\n"
+"							<p>Payment ID - <code>{{ wpl_charge_id }}</code></p>\n"
+"							<p>Site Name - <code>{{ wpl_blog_name }}</code></p>\n"
+"						"
+msgstr ""
+
+#: inc/theme-options.php:2315
+msgid "User email title"
+msgstr ""
+
+#: inc/theme-options.php:2318
+msgid "The title of the email sent to the user upon a successful payment."
+msgstr ""
+
+#: inc/theme-options.php:2328
+msgid "User email message"
+msgstr ""
+
+#: inc/theme-options.php:2331
+msgid "The content of the email sent to the user upon a successful payment."
+msgstr ""
+
+#: inc/theme-options.php:2341
+msgid "Admin email title"
+msgstr ""
+
+#: inc/theme-options.php:2344
+msgid "The title of the email sent to the site administrator upon a successful payment."
+msgstr ""
+
+#: inc/theme-options.php:2354
+msgid "Admin email message"
+msgstr ""
+
+#: inc/theme-options.php:2357
+msgid "The content of the email sent to the site administrator upon a successful payment."
+msgstr ""
+
+#: inc/theme-options.php:2376
+msgid "Enter your credentials for the Google Maps API and the Google Calendar API here. To create keys, follow instructions in the <a href=\"%s\" target=\"_blank\">WPlook Themes documentation</a>."
+msgstr ""
+
+#: inc/theme-options.php:2386
+msgid "Google Maps API"
+msgstr ""
+
+#: inc/theme-options.php:2402
+msgid "The Google Maps API is used for displaying maps on events pages."
+msgstr ""
+
+#: inc/theme-options.php:2412
+msgid "Browser key"
+msgstr ""
+
+#: inc/theme-options.php:2425
+msgid "Server key"
+msgstr ""
+
+#: inc/theme-options.php:2438
+msgid "Google Calendar API"
+msgstr ""
+
+#: inc/theme-options.php:2454
+msgid "The Google Calendar API is used for displaying the calendar on the Google Calendar page template and the list of events in the Google Calendar widget."
+msgstr ""
+
+#: inc/theme-options.php:2464
+msgid "Google Calendar API key"
+msgstr ""
+
+#: inc/update.php:25
+msgid "%1$s Updates"
+msgstr ""
+
+#: inc/update.php:26
+msgid "Theme Updates"
+msgstr ""
+
+#: inc/update.php:37
+msgid "A newer version of the %1$s theme, %2$s, is now available to download from <a href=\"https://wplook.com/theme/benevolence-church-nonprofit-wordpress-theme/?utm_source=Update_notice&utm_medium=link&utm_campaign=Benevolence\">WPlook Studio.</a>"
+msgstr ""
+
+#: inc/update.php:108
+msgid "%1$s - Theme Updates"
+msgstr ""
+
+#: inc/update.php:113
+msgid "Update the theme"
+msgstr ""
+
+#: inc/update.php:115
+msgid "<strong>Note:</strong> Make sure to make a backup of the theme and your WordPress site before updating the theme. Your content and settings will be preserved during the update, but it's important to have backups in case something goes wrong."
+msgstr ""
+
+#: inc/update.php:119
+msgid "<strong>Note:</strong> You are using a multisite installation of WordPress. This means you might be on an installation of WordPress managed by someone else and might not be able to install themes yourself. If this is the case, and you do not have access to the theme files, contact your administrator about performing the update to get the latest and greatest features of this theme."
+msgstr ""
+
+#: inc/update.php:123
+msgid "Manual theme update via FTP"
+msgstr ""
+
+#: inc/update.php:125, inc/update.php:132
+msgid "Download the latest version of the theme from the <a href=\"https://wplook.com/my-account/\">WPlook Studio site</a>."
+msgstr ""
+
+#: inc/update.php:126
+msgid "Login to your FTP account and navigate to <code>wp-content/themes</code>. Delete the theme folder called <code>%1$s</code>."
+msgstr ""
+
+#: inc/update.php:127
+msgid "Extract the downloaded archive and upload the <code>%1$s</code> folder from your computer into the <code>wp-content/themes</code> folder on your server."
+msgstr ""
+
+#: inc/update.php:130
+msgid "Manual theme update via WordPress"
+msgstr ""
+
+#: inc/update.php:133
+msgid "Login to your WordPress dashboard, head over to Appearance &rarr; Themes."
+msgstr ""
+
+#: inc/update.php:134
+msgid "Activate another theme and delete the %1$s theme."
+msgstr ""
+
+#: inc/update.php:135
+msgid "Head over to Appearance &rarr; Themes &rarr; Add New and upload <code>%1$s.zip</code>."
+msgstr ""
+
+#: inc/update.php:136
+msgid "Activate the %1$s theme."
+msgstr ""
+
+#: inc/update.php:139
+msgid "Information and support"
+msgstr ""
+
+#: inc/update.php:140
+msgid "If you have made any changes to the theme files, make sure to back those up and restore them after the update has completed. In the future, you should consider using <a href=\"https://codex.wordpress.org/Child_Themes\">child themes</a> to ensure you can update safety without overwriting your changes."
+msgstr ""
+
+#: inc/update.php:141
+msgid "If you have any questions about theme updates, please do not hesitate to <a href=\"https://wplook.com/help\">contact us</a>."
+msgstr ""
+
+#: inc/update.php:143
+msgid "%1$s changelog"
+msgstr ""
+
+#: inc/user-register.php:36
+msgid "%1$sThank you! Registration complete, now you can go to %3$s login page. %4$s %2$s "
+msgstr ""
+
+#: inc/user-register.php:79, inc/user-register.php:80
+msgid "Username"
+msgstr ""
+
+#: inc/user-register.php:85
+msgid "Email Address"
+msgstr ""
+
+#: inc/user-register.php:89, inc/user-register.php:90
+msgid "Password"
+msgstr ""
+
+#: inc/user-register.php:94, inc/user-register.php:95
+msgid "Repeat Password"
+msgstr ""
+
+#: inc/user-register.php:109
+msgid "Register"
+msgstr ""
+
+#: inc/user-register.php:139
+msgid "Required form field \"Username\" is missing"
+msgstr ""
+
+#: inc/user-register.php:142
+msgid "Required form field \"Password\" is missing"
+msgstr ""
+
+#: inc/user-register.php:145
+msgid "Required form field \"Repeat Password\" is missing"
+msgstr ""
+
+#: inc/user-register.php:148
+msgid "Required form field \"Email\" is missing"
+msgstr ""
+
+#: inc/user-register.php:151
+msgid "Required form field \"Frist Name\" is missing"
+msgstr ""
+
+#: inc/user-register.php:154
+msgid "Required form field \"Last Name\" is missing"
+msgstr ""
+
+#: inc/user-register.php:157
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: inc/user-register.php:160
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: inc/user-register.php:163
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: inc/user-register.php:166
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: inc/user-register.php:169
+msgid "Passwords do not match"
+msgstr ""
+
+#: inc/user-register.php:172
+msgid "Email is not valid"
+msgstr ""
+
+#: inc/user-register.php:175
+msgid "Email Already in use"
+msgstr ""
+
+#: inc/user-register.php:199
+msgid "Donations"
+msgstr ""
+
+#: inc/user-register.php:200
+msgid "Active Subscriptions"
+msgstr ""
+
+#: inc/user-register.php:201
+msgid "Log out"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Sorry, no content matched your criteria."
+msgstr ""
+
+#: template-parts/inc-events-loop.php:52
+msgid "Sorry, no events matched your criteria."
+msgstr ""
+
+#: template-parts/inc-sponsors.php:17
+msgid "Our Sponsors"
+msgstr ""
+
+#: template-parts/inc-sponsors.php:43
+msgid "Sorry, no sponsors matched your criteria."
+msgstr ""
+
+#: inc/custom-post-type/causes.php:26, inc/custom-post-type/causes.php:27
+msgid "Add New Cause"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:29
+msgid "Edit Cause"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:30
+msgid "New Cause"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:31, inc/custom-post-type/documents.php:31, inc/custom-post-type/events.php:32, inc/custom-post-type/gallery.php:33, inc/custom-post-type/ministries.php:31, inc/custom-post-type/pledges.php:29, inc/custom-post-type/projects.php:31, inc/custom-post-type/sermons.php:32, inc/custom-post-type/slider.php:28, inc/custom-post-type/sponsors.php:29, inc/custom-post-type/staff.php:32
+msgid "View"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:32
+msgid "View Cause"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:33
+msgid "Search Causes"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:34
+msgid "No Causes found"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:35
+msgid "No Causes found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:36
+msgid "Parent Cause"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:38
+msgid "Easily lets you create some beautiful Causes."
+msgstr ""
+
+#: inc/custom-post-type/causes.php:68
+msgid "Causes Categories"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:69, inc/custom-post-type/documents.php:69, inc/custom-post-type/events.php:72, inc/custom-post-type/staff.php:70
+msgid "Department"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:70, inc/custom-post-type/documents.php:70, inc/custom-post-type/events.php:73, inc/custom-post-type/gallery.php:74, inc/custom-post-type/projects.php:70, inc/custom-post-type/sermons.php:71
+msgid "Search in Category"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:71, inc/custom-post-type/documents.php:71, inc/custom-post-type/events.php:74, inc/custom-post-type/gallery.php:75, inc/custom-post-type/ministries.php:72, inc/custom-post-type/projects.php:71, inc/custom-post-type/sermons.php:72
+msgid "Popular Categories"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:72, inc/custom-post-type/documents.php:72, inc/custom-post-type/events.php:75, inc/custom-post-type/gallery.php:76, inc/custom-post-type/ministries.php:73, inc/custom-post-type/projects.php:72, inc/custom-post-type/sermons.php:73
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:73, inc/custom-post-type/documents.php:73, inc/custom-post-type/events.php:76, inc/custom-post-type/gallery.php:77, inc/custom-post-type/ministries.php:74, inc/custom-post-type/projects.php:73, inc/custom-post-type/sermons.php:74
+msgid "Parent Category"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:74, inc/custom-post-type/documents.php:74, inc/custom-post-type/events.php:77, inc/custom-post-type/gallery.php:78, inc/custom-post-type/ministries.php:75, inc/custom-post-type/projects.php:74, inc/custom-post-type/sermons.php:75
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:75, inc/custom-post-type/documents.php:75, inc/custom-post-type/events.php:78, inc/custom-post-type/gallery.php:79, inc/custom-post-type/ministries.php:76, inc/custom-post-type/projects.php:75, inc/custom-post-type/sermons.php:76
+msgid "Edit Category"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:76, inc/custom-post-type/documents.php:76, inc/custom-post-type/events.php:79, inc/custom-post-type/gallery.php:80, inc/custom-post-type/ministries.php:77, inc/custom-post-type/projects.php:76, inc/custom-post-type/sermons.php:77
+msgid "Update Category"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:77, inc/custom-post-type/documents.php:77, inc/custom-post-type/events.php:80, inc/custom-post-type/gallery.php:81, inc/custom-post-type/ministries.php:78, inc/custom-post-type/projects.php:77, inc/custom-post-type/sermons.php:78
+msgid "Add New Category"
+msgstr ""
+
+#: inc/custom-post-type/causes.php:78, inc/custom-post-type/documents.php:78, inc/custom-post-type/events.php:81, inc/custom-post-type/gallery.php:82, inc/custom-post-type/ministries.php:79, inc/custom-post-type/projects.php:78, inc/custom-post-type/sermons.php:79
+msgid "New Category Name"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:26, inc/custom-post-type/documents.php:27
+msgid "Add New Document"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:29
+msgid "Edit Document"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:30
+msgid "New Document"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:32
+msgid "View Document"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:33
+msgid "Search Documents"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:34
+msgid "No Documents found"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:35
+msgid "No Documents found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:36
+msgid "Parent Document"
+msgstr ""
+
+#: inc/custom-post-type/documents.php:38
+msgid "Easily lets you create some beautiful Documents."
+msgstr ""
+
+#: inc/custom-post-type/documents.php:68
+msgid "Document Categories"
+msgstr ""
+
+#: inc/custom-post-type/events.php:27, inc/custom-post-type/events.php:28
+msgid "Add New Event"
+msgstr ""
+
+#: inc/custom-post-type/events.php:30
+msgid "Edit Event"
+msgstr ""
+
+#: inc/custom-post-type/events.php:31
+msgid "New Event"
+msgstr ""
+
+#: inc/custom-post-type/events.php:33
+msgid "View Event"
+msgstr ""
+
+#: inc/custom-post-type/events.php:34
+msgid "Search Events"
+msgstr ""
+
+#: inc/custom-post-type/events.php:35
+msgid "No Events found"
+msgstr ""
+
+#: inc/custom-post-type/events.php:36
+msgid "No Events found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/events.php:37
+msgid "Parent Event"
+msgstr ""
+
+#: inc/custom-post-type/events.php:39
+msgid "Easily lets you create some beautiful Events."
+msgstr ""
+
+#: inc/custom-post-type/events.php:71
+msgid "Events Categories"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:28, inc/custom-post-type/gallery.php:29
+msgid "Add New Gallery"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:31
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:32
+msgid "New Gallery"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:34
+msgid "View Gallery"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:35
+msgid "Search Galleries"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:36
+msgid "No Galleries found"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:37
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:38
+msgid "Parent Gallery"
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:40
+msgid "Easily lets you create some beautiful Galleries."
+msgstr ""
+
+#: inc/custom-post-type/gallery.php:72
+msgid "Gallery Categories"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:26, inc/custom-post-type/ministries.php:27
+msgid "Add New Ministry"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:29
+msgid "Edit Ministry"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:30
+msgid "New Ministry"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:32
+msgid "View Ministries"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:33
+msgid "Search Ministries"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:34
+msgid "No Ministries found"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:35
+msgid "No Ministries found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:36, inc/custom-post-type/projects.php:36
+msgid "Parent Project"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:38
+msgid "Easily lets you create some beautiful Ministries."
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:69
+msgid "Ministry Categories"
+msgstr ""
+
+#: inc/custom-post-type/ministries.php:71
+msgid "Search in Categories"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:22
+msgid "Pledges"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:23
+msgid "Pledge"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:24, inc/custom-post-type/pledges.php:25
+msgid "Add New Pledge"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:27
+msgid "Edit Pledge"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:28
+msgid "New Pledge"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:30
+msgid "View Pledges"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:31
+msgid "Search Pledges"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:32
+msgid "No Pledges found"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:33
+msgid "No Pledges found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:34
+msgid "Parent Pledge"
+msgstr ""
+
+#: inc/custom-post-type/pledges.php:36
+msgid "Easily lets you create some beautiful Pledges."
+msgstr ""
+
+#: inc/custom-post-type/projects.php:26, inc/custom-post-type/projects.php:27
+msgid "Add New Project"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:29
+msgid "Edit Project"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:30
+msgid "New Project"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:32
+msgid "View Projects"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:33
+msgid "Search Projects"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:34
+msgid "No Projects found"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:35
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:38
+msgid "Easily lets you create some beautiful Projects."
+msgstr ""
+
+#: inc/custom-post-type/projects.php:68
+msgid "Projects Categories"
+msgstr ""
+
+#: inc/custom-post-type/projects.php:69
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:27, inc/custom-post-type/sermons.php:28
+msgid "Add New Sermon"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:30
+msgid "Edit Sermon"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:31
+msgid "New Sermon"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:33
+msgid "View Sermons"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:34
+msgid "Search Sermons"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:35
+msgid "No Sermons found"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:36
+msgid "No Sermons found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:37
+msgid "Parent Sermon"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:39
+msgid "Easily lets you create some beautiful Sermons."
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:69
+msgid "Sermons Categories"
+msgstr ""
+
+#: inc/custom-post-type/sermons.php:70
+msgid "categories"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:21
+msgid "Slides"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:22
+msgid "Slide"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:23, inc/custom-post-type/slider.php:24
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:26
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:27
+msgid "New Slide"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:29
+msgid "View Slide"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:30
+msgid "Search Slides"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:31
+msgid "No Slides found"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:32
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:33
+msgid "Parent Slide"
+msgstr ""
+
+#: inc/custom-post-type/slider.php:35
+msgid "Create a front page slider with images, text and action buttons."
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:22
+msgid "Sponsors"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:23
+msgid "Sponsor"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:24, inc/custom-post-type/sponsors.php:25
+msgid "Add New Sponsor"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:27
+msgid "Edit Sponsor"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:28
+msgid "New Sponsor"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:30
+msgid "View Sponsor"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:31
+msgid "Search Sponsors"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:32
+msgid "No Sponsors found"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:33
+msgid "No Sponsors found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:34
+msgid "Parent Sponsor"
+msgstr ""
+
+#: inc/custom-post-type/sponsors.php:36
+msgid "Easily lets you create some beautiful Sponsors."
+msgstr ""
+
+#: inc/custom-post-type/staff.php:27, inc/custom-post-type/staff.php:28
+msgid "Add New Staff Member"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:30
+msgid "Edit Staff Member"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:31
+msgid "New Staff Member"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:33
+msgid "View Staff Member"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:34
+msgid "Search for Staff Members"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:35
+msgid "No Staff Members found"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:36
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:37
+msgid "Parent Staff Member"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:39
+msgid "Easily lets you create some beautiful Staff."
+msgstr ""
+
+#: inc/custom-post-type/staff.php:69
+msgid "Staff Departments"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:71
+msgid "Search in Department"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:72
+msgid "Popular Departments"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:73
+msgid "All Departments"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:74
+msgid "Parent Department"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:75
+msgid "Parent Department:"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:76
+msgid "Edit Department"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:77
+msgid "Update Department"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:78
+msgid "Add New Department"
+msgstr ""
+
+#: inc/custom-post-type/staff.php:79
+msgid "New Department Name"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:327, inc/plugins/require-plugins.php:105
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:328, inc/plugins/require-plugins.php:106
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:330, inc/plugins/require-plugins.php:107
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:332, inc/plugins/require-plugins.php:108
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:333, inc/plugins/require-plugins.php:109
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334, inc/plugins/require-plugins.php:110
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340, inc/plugins/require-plugins.php:115
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:346, inc/plugins/require-plugins.php:120
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:352, inc/plugins/require-plugins.php:125
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:358, inc/plugins/require-plugins.php:130
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:364, inc/plugins/require-plugins.php:135
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:370, inc/plugins/require-plugins.php:140
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:375, inc/plugins/require-plugins.php:145
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:380, inc/plugins/require-plugins.php:150
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:385, inc/plugins/require-plugins.php:155
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:386, inc/plugins/class-tgm-plugin-activation.php:827, inc/plugins/class-tgm-plugin-activation.php:2533, inc/plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387, inc/plugins/class-tgm-plugin-activation.php:3159, inc/plugins/require-plugins.php:156
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:388, inc/plugins/class-tgm-plugin-activation.php:2952, inc/plugins/require-plugins.php:157
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:390, inc/plugins/require-plugins.php:158
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:392, inc/plugins/require-plugins.php:159
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/plugins/class-tgm-plugin-activation.php:394, inc/plugins/require-plugins.php:160
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395, inc/plugins/require-plugins.php:161
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:396, inc/plugins/require-plugins.php:162
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:397, inc/plugins/require-plugins.php:163
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:937, inc/plugins/class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1121, inc/plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3517, inc/plugins/class-tgm-plugin-activation.php:3509
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3517, inc/plugins/class-tgm-plugin-activation.php:3509
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/widgets/widget-address.php:22
+msgid "WPlook Address"
+msgstr ""
+
+#: inc/widgets/widget-address.php:23
+msgid "A widget for displaying Address"
+msgstr ""
+
+#: inc/widgets/widget-address.php:37
+msgid "Contact Us"
+msgstr ""
+
+#: inc/widgets/widget-address.php:44, inc/widgets/widget-address.php:51, inc/widgets/widget-address.php:58, inc/widgets/widget-address.php:65, inc/widgets/widget-address.php:72, inc/widgets/widget-causes.php:57, inc/widgets/widget-docs.php:58, inc/widgets/widget-events.php:58, inc/widgets/widget-events.php:72, inc/widgets/widget-events.php:79, inc/widgets/widget-gallery.php:58, inc/widgets/widget-ministries.php:58, inc/widgets/widget-posts.php:58, inc/widgets/widget-posts.php:65, inc/widgets/widget-projects.php:58, inc/widgets/widget-quote.php:38, inc/widgets/widget-quote.php:45, inc/widgets/widget-sermons.php:58, inc/widgets/widget-social.php:39, inc/widgets/widget-social.php:46, inc/widgets/widget-social.php:53, inc/widgets/widget-social.php:59, inc/widgets/widget-social.php:65, inc/widgets/widget-social.php:71, inc/widgets/widget-social.php:78, inc/widgets/widget-social.php:84, inc/widgets/widget-social.php:90, inc/widgets/widget-social.php:96, inc/widgets/widget-social.php:102, inc/widgets/widget-social.php:108, inc/widgets/widget-social.php:115, inc/widgets/widget-staff.php:65
+msgid ""
+msgstr ""
+
+#: inc/widgets/widget-address.php:77, inc/widgets/widget-causes.php:69, inc/widgets/widget-docs.php:70, inc/widgets/widget-events.php:92, inc/widgets/widget-flickr.php:54, inc/widgets/widget-gallery.php:70, inc/widgets/widget-google-calendar.php:47, inc/widgets/widget-instagram.php:171, inc/widgets/widget-latest-donations.php:50, inc/widgets/widget-ministries.php:70, inc/widgets/widget-posts.php:70, inc/widgets/widget-projects.php:70, inc/widgets/widget-quote.php:50, inc/widgets/widget-sermons.php:70, inc/widgets/widget-social.php:122, inc/widgets/widget-staff.php:77, inc/widgets/widget-text-enchanted.php:99, inc/widgets/widget-text-enchanted.php:138, inc/widgets/widget-text-enchanted.php:176, inc/widgets/widget-text-enchanted.php:214
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-address.php:82
+msgid "Organisation Name:"
+msgstr ""
+
+#: inc/widgets/widget-address.php:84
+msgid "Add Organisation name"
+msgstr ""
+
+#: inc/widgets/widget-address.php:89, inc/widgets/widget-address.php:166
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/widget-address.php:95, inc/widgets/widget-address.php:171
+msgid "Phone:"
+msgstr ""
+
+#: inc/widgets/widget-address.php:97
+msgid "Add Phone Number"
+msgstr ""
+
+#: inc/widgets/widget-address.php:101
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/widget-address.php:103
+msgid "Add Email Address"
+msgstr ""
+
+#: inc/widgets/widget-address.php:107, inc/widgets/widget-address.php:179
+msgid "Website:"
+msgstr ""
+
+#: inc/widgets/widget-address.php:109
+msgid "Add Website Address"
+msgstr ""
+
+#: inc/widgets/widget-address.php:175
+msgid "E-mail:"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:21
+msgid "WPlook Causes"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:22
+msgid "A widget for displaying latest causes"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:43, inc/widgets/widget-causes.php:82, inc/widgets/widget-docs.php:44, inc/widgets/widget-docs.php:83, inc/widgets/widget-events.php:44, inc/widgets/widget-events.php:105, inc/widgets/widget-gallery.php:44, inc/widgets/widget-gallery.php:83, inc/widgets/widget-posts.php:44, inc/widgets/widget-posts.php:83, inc/widgets/widget-projects.php:44, inc/widgets/widget-projects.php:83, inc/widgets/widget-sermons.php:44, inc/widgets/widget-sermons.php:83, inc/widgets/widget-staff.php:44, inc/widgets/widget-staff.php:90
+msgid "All"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:50, inc/widgets/widget-docs.php:51, inc/widgets/widget-gallery.php:51, inc/widgets/widget-ministries.php:44, inc/widgets/widget-projects.php:51, inc/widgets/widget-sermons.php:51, inc/widgets/widget-staff.php:51
+msgid "4"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:64, inc/widgets/widget-docs.php:65, inc/widgets/widget-events.php:86, inc/widgets/widget-gallery.php:65, inc/widgets/widget-ministries.php:65, inc/widgets/widget-projects.php:65, inc/widgets/widget-sermons.php:65, inc/widgets/widget-staff.php:72
+msgid "1"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:75, inc/widgets/widget-docs.php:76, inc/widgets/widget-events.php:98, inc/widgets/widget-gallery.php:76, inc/widgets/widget-posts.php:76, inc/widgets/widget-projects.php:76, inc/widgets/widget-sermons.php:76, inc/widgets/widget-staff.php:83
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:92
+msgid "Number of Causes:"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:94
+msgid "Number of causes you want to display"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:98
+msgid "URL to all Causes:"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:100
+msgid "View all causes URL"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:105, inc/widgets/widget-docs.php:106, inc/widgets/widget-events.php:151, inc/widgets/widget-gallery.php:106, inc/widgets/widget-ministries.php:96, inc/widgets/widget-projects.php:106, inc/widgets/widget-sermons.php:106, inc/widgets/widget-staff.php:121, inc/widgets/widget-text-enchanted.php:251
+msgid "Clear after?"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:112, inc/widgets/widget-docs.php:113, inc/widgets/widget-gallery.php:113, inc/widgets/widget-ministries.php:103, inc/widgets/widget-projects.php:113, inc/widgets/widget-sermons.php:113, inc/widgets/widget-staff.php:128, inc/widgets/widget-text-enchanted.php:258
+msgid "Clear after if you want to add one more widgets after this widget"
+msgstr ""
+
+#: inc/widgets/widget-causes.php:182, inc/widgets/widget-docs.php:183, inc/widgets/widget-events.php:235, inc/widgets/widget-gallery.php:182, inc/widgets/widget-ministries.php:168, inc/widgets/widget-posts.php:169, inc/widgets/widget-projects.php:186, inc/widgets/widget-sermons.php:184, inc/widgets/widget-staff.php:224
+msgid "View more"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:61
+msgid "Chart stats for the last"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:65
+msgid "Last week"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:66
+msgid "Last month"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:67
+msgid "Last year"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:68
+msgid "Last decade"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:82
+msgid "Donations for all Causes"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:603
+msgid "Chart stats for: "
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:607, inc/widgets/widget-dashboard-charts.php:841
+msgid "Today"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:608, inc/widgets/widget-dashboard-charts.php:842
+msgid "This week"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:610, inc/widgets/widget-dashboard-charts.php:844
+msgid "This year"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:611, inc/widgets/widget-dashboard-charts.php:845
+msgid "All time"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:620
+msgid "Show me please: "
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:624
+msgid "Top 3"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:625
+msgid "Top 5"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:626
+msgid "Top 10"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:641
+msgid "Donations for Top Causes"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:837
+msgid "Chart stats for : "
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:857
+msgid "Select Cause"
+msgstr ""
+
+#: inc/widgets/widget-dashboard-charts.php:873
+msgid "Cause donations performance"
+msgstr ""
+
+#: inc/widgets/widget-docs.php:22
+msgid "WPlook Docs"
+msgstr ""
+
+#: inc/widgets/widget-docs.php:23
+msgid "A widget for displaying documents"
+msgstr ""
+
+#: inc/widgets/widget-docs.php:93
+msgid "Number of docs:"
+msgstr ""
+
+#: inc/widgets/widget-docs.php:95
+msgid "Number of docs you want to display"
+msgstr ""
+
+#: inc/widgets/widget-docs.php:99
+msgid "URL to all docs:"
+msgstr ""
+
+#: inc/widgets/widget-docs.php:101
+msgid "View all docs URL"
+msgstr ""
+
+#: inc/widgets/widget-events.php:22
+msgid "WPlook Events"
+msgstr ""
+
+#: inc/widgets/widget-events.php:23
+msgid "A widget for displaying upcoming events"
+msgstr ""
+
+#: inc/widgets/widget-events.php:51, inc/widgets/widget-posts.php:51
+msgid "3"
+msgstr ""
+
+#: inc/widgets/widget-events.php:115
+msgid "Number of Events:"
+msgstr ""
+
+#: inc/widgets/widget-events.php:117
+msgid "Number of events you want to display"
+msgstr ""
+
+#: inc/widgets/widget-events.php:122
+msgid "Event type"
+msgstr ""
+
+#: inc/widgets/widget-events.php:132
+msgid "Duration in days:"
+msgstr ""
+
+#: inc/widgets/widget-events.php:134
+msgid "If the widget is displaying fewer events than the \"Number of Events\" value above, you can increase this value to look for events over a longer period of time."
+msgstr ""
+
+#: inc/widgets/widget-events.php:138
+msgid "URL to all events:"
+msgstr ""
+
+#: inc/widgets/widget-events.php:140
+msgid "View all events URL"
+msgstr ""
+
+#: inc/widgets/widget-events.php:144
+msgid "Calendar:"
+msgstr ""
+
+#: inc/widgets/widget-events.php:146
+msgid "Calendar URL"
+msgstr ""
+
+#: inc/widgets/widget-events.php:158
+msgid "Clear after if you want to add one or more widgets after this widget."
+msgstr ""
+
+#: inc/widgets/widget-events.php:283
+msgid "No events scheduled at this time."
+msgstr ""
+
+#: inc/widgets/widget-events.php:269
+msgid "Calendar"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:22
+msgid "WPlook Flickr"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:23
+msgid "A widget for displaying Flickr images"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:36
+msgid "My Flickr"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:42
+msgid "insert flickr RSS"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:48
+msgid "6"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:61
+msgid "Flickr RSS:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:65
+msgid "Insert your Flickr RSS."
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:71
+msgid "Number of thumbs:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:75
+msgid "Number of thumbnails you want to display."
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:22
+msgid "WPlook Gallery"
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:23
+msgid "A widget for displaying galleries"
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:93
+msgid "Number of galleries:"
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:95
+msgid "Number of galleries you want to display"
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:99
+msgid "URL to all galleries:"
+msgstr ""
+
+#: inc/widgets/widget-gallery.php:101
+msgid "View all galleries URL"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:23
+msgid "WPlook Google Calendar"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:24
+msgid "A widget for displaying a list of events stored in Google Calendar."
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:41
+msgid "View Calendar"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:52
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:57
+msgid "Google Calendar ID:"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:60
+msgid "Add your Google Calendar ID. Read the <a href=\"%1$s\" target=\"_blank\">theme documentation</a> for more information."
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:65
+msgid "Events color:"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:68
+msgid "The color all of the events will be displayed in."
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:73, inc/widgets/widget-text-enchanted.php:122, inc/widgets/widget-text-enchanted.php:161, inc/widgets/widget-text-enchanted.php:199, inc/widgets/widget-text-enchanted.php:237
+msgid "Button text:"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:76
+msgid "The button could link to a page using the Google Calendar page template or the Google Calendar share URL. Leave blank to disable."
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:81, inc/widgets/widget-text-enchanted.php:128, inc/widgets/widget-text-enchanted.php:167, inc/widgets/widget-text-enchanted.php:205, inc/widgets/widget-text-enchanted.php:243
+msgid "Button URL:"
+msgstr ""
+
+#: inc/widgets/widget-google-calendar.php:87, inc/widgets/widget-latest-donations.php:113
+msgid "The ID of this widget is: %1$s"
+msgstr ""
+
+#: inc/widgets/widget-init.php:76
+msgid "First Home Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:78, inc/widgets/widget-init.php:88, inc/widgets/widget-init.php:98, inc/widgets/widget-init.php:108, inc/widgets/widget-init.php:118, inc/widgets/widget-init.php:128
+msgid "Widgets in this area will be shown only on the Home Page Template."
+msgstr ""
+
+#: inc/widgets/widget-init.php:86
+msgid "Second Home Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:96
+msgid "Third Home Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:106
+msgid "Fourth Home Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:116
+msgid "Fifth Home Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:126
+msgid "Sixth Home Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:140
+msgid "Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:142
+msgid "Widgets in this area will be shown on all Pages."
+msgstr ""
+
+#: inc/widgets/widget-init.php:155
+msgid "Press/Blog Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:157
+msgid "Widgets in this area will be shown on all Posts."
+msgstr ""
+
+#: inc/widgets/widget-init.php:172
+msgid "Causes Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:174
+msgid "Widgets in this area will be shown on all Causes."
+msgstr ""
+
+#: inc/widgets/widget-init.php:188
+msgid "Event Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:190
+msgid "Widgets in this area will be shown on all Events."
+msgstr ""
+
+#: inc/widgets/widget-init.php:204
+msgid "Staff Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:206
+msgid "Widgets in this area will be shown on all Staff."
+msgstr ""
+
+#: inc/widgets/widget-init.php:220
+msgid "Projects Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:222
+msgid "Widgets in this area will be shown on all Projects."
+msgstr ""
+
+#: inc/widgets/widget-init.php:237
+msgid "Ministries Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:239
+msgid "Widgets in this area will be shown on all Ministrie."
+msgstr ""
+
+#: inc/widgets/widget-init.php:252
+msgid "Documents Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:254
+msgid "Widgets in this area will be shown on all Documents."
+msgstr ""
+
+#: inc/widgets/widget-init.php:268
+msgid "Gallery Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:270
+msgid "Widgets in this area will be shown on all Gallery pages."
+msgstr ""
+
+#: inc/widgets/widget-init.php:284
+msgid "Sermons Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:286
+msgid "Widgets in this area will be shown on all Sermon pages."
+msgstr ""
+
+#: inc/widgets/widget-init.php:301
+msgid "Shopping Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:303
+msgid "Widgets in this area will be shown on shop section."
+msgstr ""
+
+#: inc/widgets/widget-init.php:317
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:319
+msgid "The first footer widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:333
+msgid "Contact Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:335
+msgid "Widgets in this area will be shown on Contact Pages."
+msgstr ""
+
+#: inc/widgets/widget-instagram.php:22
+msgid "WPlook - Instagram Photos"
+msgstr ""
+
+#: inc/widgets/widget-instagram.php:23
+msgid "Show photos from an instagram account."
+msgstr ""
+
+#: inc/widgets/widget-instagram.php:175
+msgid "Display Account Information"
+msgstr ""
+
+#: inc/widgets/widget-instagram.php:182
+msgid "Amount:"
+msgstr ""
+
+#: inc/widgets/widget-instagram.php:186
+msgid "Access Token:"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:24
+msgid "WPlook Latest Donations"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:25
+msgid "Display latest donations to either all causes or a selected cause, based on existing Pledges information from PayPal and Stripe."
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:38
+msgid "Latest donations"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:55
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:60
+msgid "Cause:"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:71
+msgid "Current cause"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:79
+msgid "Use this widget in the <strong>Causes Widget area</strong> and select <strong>Current cause</strong> to display information for the cause currently being displayed."
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:83
+msgid "Number of donations:"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:89
+msgid "Display cause information"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:90
+msgid "Display the title, short description and image of a cause above the latest donations."
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:95
+msgid "Display total"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:96
+msgid "Display the total amount of donations for this cause below the latest donations."
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:101
+msgid "Display goal"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:102
+msgid "Display the goal for donations for this cause below the latest donations."
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:107
+msgid "Display link"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:108
+msgid "Display the link to the single cause page below the latest donations."
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:246
+msgid "Anonymous"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:244
+msgctxt "[first name] [last name]"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:249
+msgctxt "[donation value] [currency code]"
+msgid "+%1$0.2f %2$s"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:260
+msgid "Total donations"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:261, inc/widgets/widget-latest-donations.php:268
+msgctxt "[total donations] [currency code]"
+msgid "%1$0.2f %2$s"
+msgstr ""
+
+#: inc/widgets/widget-latest-donations.php:302
+msgid "View cause"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:22
+msgid "WPlook Ministries"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:23
+msgid "A widget for displaying ministries"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:51, inc/widgets/widget-staff.php:58
+msgid "random"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:75
+msgid "Number of ministries:"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:77
+msgid "Number of ministries you want to display"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:81, inc/widgets/widget-staff.php:106
+msgid "Order by:"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:83, inc/widgets/widget-staff.php:108
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:84, inc/widgets/widget-staff.php:109
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:89
+msgid "URL to all Ministries:"
+msgstr ""
+
+#: inc/widgets/widget-ministries.php:91
+msgid "View all ministries URL"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:22
+msgid "WPlook Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:23
+msgid "A widget for displaying latest Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:37
+msgid "Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:93
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:95
+msgid "Number of posts you want to display"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:99
+msgid "URL to all Posts:"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:101
+msgid "View all Posts URL"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:106
+msgid "Display comment count"
+msgstr ""
+
+#: inc/widgets/widget-projects.php:22
+msgid "WPlook Projects"
+msgstr ""
+
+#: inc/widgets/widget-projects.php:23
+msgid "A widget for displaying Projects"
+msgstr ""
+
+#: inc/widgets/widget-projects.php:93
+msgid "Number of projects:"
+msgstr ""
+
+#: inc/widgets/widget-projects.php:95
+msgid "Number of projects you want to display"
+msgstr ""
+
+#: inc/widgets/widget-projects.php:99
+msgid "URL to all projects:"
+msgstr ""
+
+#: inc/widgets/widget-projects.php:101
+msgid "View all projects URL"
+msgstr ""
+
+#: inc/widgets/widget-quote.php:22
+msgid "WPlook Quote"
+msgstr ""
+
+#: inc/widgets/widget-quote.php:23
+msgid "A widget for displaying Quotes"
+msgstr ""
+
+#: inc/widgets/widget-quote.php:56
+msgid "Quote:"
+msgstr ""
+
+#: inc/widgets/widget-sermons.php:22
+msgid "WPlook Sermons"
+msgstr ""
+
+#: inc/widgets/widget-sermons.php:23
+msgid "A widget for displaying Sermons"
+msgstr ""
+
+#: inc/widgets/widget-sermons.php:93
+msgid "Number of Sermons:"
+msgstr ""
+
+#: inc/widgets/widget-sermons.php:95
+msgid "Number of Sermons you want to display"
+msgstr ""
+
+#: inc/widgets/widget-sermons.php:99
+msgid "URL to all Sermons:"
+msgstr ""
+
+#: inc/widgets/widget-sermons.php:101
+msgid "View all Sermons URL"
+msgstr ""
+
+#: inc/widgets/widget-social.php:22
+msgid "WPlook Social"
+msgstr ""
+
+#: inc/widgets/widget-social.php:23
+msgid "A widget for displaying Social Networking"
+msgstr ""
+
+#: inc/widgets/widget-social.php:130
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:134
+msgid "Insert the full URL of your Twitter profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:141
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:145
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr ""
+
+#: inc/widgets/widget-social.php:152
+msgid "RSS:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:156
+msgid "Insert the Url of your RSS. You may include your RSS from Feedburner."
+msgstr ""
+
+#: inc/widgets/widget-social.php:163
+msgid "Google Plus:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:167
+msgid "Insert the full URL of your Google Plus profile"
+msgstr ""
+
+#: inc/widgets/widget-social.php:174
+msgid "You Tube:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:178
+msgid "Insert the full URL of your YouTube profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:185
+msgid "Vimeo:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:189
+msgid "Insert the full URL of your vimeo profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:196
+msgid "Lastfm:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:200
+msgid "Insert the full URL of your lastfm profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:207
+msgid "Soundcloud:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:211
+msgid "Insert the full URL of your soundcloud profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:218
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:222
+msgid "Insert the full URL of your Pinterest profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:229
+msgid "Flickr:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:233
+msgid "Insert the full URL of your Flickr profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:240
+msgid "Linkedin:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:244
+msgid "Insert the full URL of your Linkedin profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:251
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:255
+msgid "Insert the full URL of your Instagram profile."
+msgstr ""
+
+#: inc/widgets/widget-staff.php:22
+msgid "WPlook Staff"
+msgstr ""
+
+#: inc/widgets/widget-staff.php:23
+msgid "A widget for displaying staff"
+msgstr ""
+
+#: inc/widgets/widget-staff.php:100
+msgid "Number of Candidates:"
+msgstr ""
+
+#: inc/widgets/widget-staff.php:102
+msgid "Number of Candidates you want to display"
+msgstr ""
+
+#: inc/widgets/widget-staff.php:114
+msgid "URL to all Candidates:"
+msgstr ""
+
+#: inc/widgets/widget-staff.php:116
+msgid "View all candidates URL"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:20
+msgid "WPlook Enchanted Text"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:21
+msgid "A widget for displaying Enchanted Text"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:61
+msgid "Main Widget Title"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:91
+msgid "Main Title:"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:96
+msgid "First column"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:101, inc/widgets/widget-text-enchanted.php:140, inc/widgets/widget-text-enchanted.php:178, inc/widgets/widget-text-enchanted.php:216
+msgid "Column title"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:105, inc/widgets/widget-text-enchanted.php:144, inc/widgets/widget-text-enchanted.php:182, inc/widgets/widget-text-enchanted.php:220
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:107, inc/widgets/widget-text-enchanted.php:146, inc/widgets/widget-text-enchanted.php:184, inc/widgets/widget-text-enchanted.php:222
+msgid "Column text (30-35 keywords)"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:111, inc/widgets/widget-text-enchanted.php:150, inc/widgets/widget-text-enchanted.php:188, inc/widgets/widget-text-enchanted.php:226
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:116, inc/widgets/widget-text-enchanted.php:155, inc/widgets/widget-text-enchanted.php:193, inc/widgets/widget-text-enchanted.php:231
+msgid "This is a demo image"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:118, inc/widgets/widget-text-enchanted.php:157, inc/widgets/widget-text-enchanted.php:195, inc/widgets/widget-text-enchanted.php:233
+msgid "Image Dimensions 260 x 145px"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:124, inc/widgets/widget-text-enchanted.php:163, inc/widgets/widget-text-enchanted.php:201, inc/widgets/widget-text-enchanted.php:239
+msgid "Text Button"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:135
+msgid "Second column"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:173
+msgid "Third column"
+msgstr ""
+
+#: inc/widgets/widget-text-enchanted.php:211
+msgid "Fourth column"
+msgstr ""

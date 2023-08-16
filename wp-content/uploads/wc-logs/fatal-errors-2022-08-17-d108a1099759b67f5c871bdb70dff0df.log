@@ -1,0 +1,4 @@
+2022-08-17T12:25:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\projectos\wordpress-fibonaci\wp-includes\Requests\Transport\cURL.php na linha 484
+
+2022-08-17T12:47:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded em C:\xampp\htdocs\projectos\wordpress-fibonaci\wp-includes\Requests\Transport\cURL.php na linha 484
+
